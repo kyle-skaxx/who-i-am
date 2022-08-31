@@ -1,0 +1,7 @@
+[core]
+	editor = code --wait
+[user]
+	name = Kyle Longakit
+	email = kylelongakit@gmail.com
+[credential]
+	helper = store

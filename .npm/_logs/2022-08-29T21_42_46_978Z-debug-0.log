@@ -1,0 +1,177 @@
+0 verbose cli /home/taranakiyoza/.nvm/versions/node/v16.17.0/bin/node /home/taranakiyoza/.nvm/versions/node/v16.17.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@8.15.0
+2 info using node@v16.17.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/taranakiyoza/.nvm/versions/node/v16.17.0/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 2ms
+10 timing config:load:file:/home/taranakiyoza/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/home/taranakiyoza/.nvm/versions/node/v16.17.0/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:credentials Completed in 1ms
+16 timing config:load:setEnvs Completed in 1ms
+17 timing config:load Completed in 8ms
+18 timing npm:load:configload Completed in 8ms
+19 timing npm:load:mkdirpcache Completed in 4ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm exec @devacademy/checklist
+22 verbose argv "exec" "--yes" "--" "@devacademy/checklist"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing config:load:flatten Completed in 2ms
+25 timing npm:load:display Completed in 3ms
+26 verbose logfile logs-max:10 dir:/home/taranakiyoza/.npm/_logs
+27 verbose logfile /home/taranakiyoza/.npm/_logs/2022-08-29T21_42_46_978Z-debug-0.log
+28 timing npm:load:logFile Completed in 4ms
+29 timing npm:load:timers Completed in 0ms
+30 timing npm:load:configScope Completed in 0ms
+31 timing npm:load Completed in 22ms
+32 silly logfile done cleaning log files
+33 timing arborist:ctor Completed in 1ms
+34 http fetch GET 200 https://registry.npmjs.org/@devacademy%2fchecklist 1566ms (cache miss)
+35 timing arborist:ctor Completed in 0ms
+36 timing arborist:ctor Completed in 1ms
+37 timing idealTree:init Completed in 8ms
+38 timing idealTree:userRequests Completed in 6ms
+39 silly idealTree buildDeps
+40 silly fetch manifest @devacademy/checklist@1.3.0
+41 http fetch GET 200 https://registry.npmjs.org/@devacademy%2fchecklist 29ms (cache hit)
+42 silly placeDep ROOT @devacademy/checklist@1.3.0 OK for:  want: 1.3.0
+43 silly fetch manifest chalk@^4.1.2
+44 silly fetch manifest comment-json@^4.2.2
+45 http fetch GET 200 https://registry.npmjs.org/chalk 91ms (cache miss)
+46 http fetch GET 200 https://registry.npmjs.org/comment-json 408ms (cache miss)
+47 timing idealTree:#root Completed in 453ms
+48 silly placeDep ROOT chalk@4.1.2 OK for: @devacademy/checklist@1.3.0 want: ^4.1.2
+49 silly placeDep ROOT comment-json@4.2.3 OK for: @devacademy/checklist@1.3.0 want: ^4.2.2
+50 silly fetch manifest ansi-styles@^4.1.0
+51 silly fetch manifest supports-color@^7.1.0
+52 silly fetch manifest array-timsort@^1.0.3
+53 silly fetch manifest core-util-is@^1.0.3
+54 silly fetch manifest esprima@^4.0.1
+55 silly fetch manifest has-own-prop@^2.0.0
+56 silly fetch manifest repeat-string@^1.6.1
+57 http fetch GET 200 https://registry.npmjs.org/ansi-styles 95ms (cache miss)
+58 http fetch GET 200 https://registry.npmjs.org/supports-color 101ms (cache miss)
+59 http fetch GET 200 https://registry.npmjs.org/core-util-is 176ms (cache miss)
+60 http fetch GET 200 https://registry.npmjs.org/repeat-string 176ms (cache miss)
+61 http fetch GET 200 https://registry.npmjs.org/esprima 187ms (cache miss)
+62 http fetch GET 200 https://registry.npmjs.org/array-timsort 356ms (cache miss)
+63 http fetch GET 200 https://registry.npmjs.org/has-own-prop 391ms (cache miss)
+64 timing idealTree:node_modules/@devacademy/checklist Completed in 405ms
+65 silly placeDep ROOT ansi-styles@4.3.0 OK for: chalk@4.1.2 want: ^4.1.0
+66 silly placeDep ROOT supports-color@7.2.0 OK for: chalk@4.1.2 want: ^7.1.0
+67 silly fetch manifest color-convert@^2.0.1
+68 silly fetch manifest has-flag@^4.0.0
+69 http fetch GET 200 https://registry.npmjs.org/has-flag 85ms (cache miss)
+70 http fetch GET 200 https://registry.npmjs.org/color-convert 90ms (cache miss)
+71 timing idealTree:node_modules/chalk Completed in 98ms
+72 silly placeDep ROOT color-convert@2.0.1 OK for: ansi-styles@4.3.0 want: ^2.0.1
+73 silly fetch manifest color-name@~1.1.4
+74 http fetch GET 200 https://registry.npmjs.org/color-name 68ms (cache miss)
+75 timing idealTree:node_modules/ansi-styles Completed in 71ms
+76 silly placeDep ROOT color-name@1.1.4 OK for: color-convert@2.0.1 want: ~1.1.4
+77 timing idealTree:node_modules/color-convert Completed in 5ms
+78 timing idealTree:node_modules/color-name Completed in 0ms
+79 silly placeDep ROOT array-timsort@1.0.3 OK for: comment-json@4.2.3 want: ^1.0.3
+80 silly placeDep ROOT core-util-is@1.0.3 OK for: comment-json@4.2.3 want: ^1.0.3
+81 silly placeDep ROOT esprima@4.0.1 OK for: comment-json@4.2.3 want: ^4.0.1
+82 silly placeDep ROOT has-own-prop@2.0.0 OK for: comment-json@4.2.3 want: ^2.0.0
+83 silly placeDep ROOT repeat-string@1.6.1 OK for: comment-json@4.2.3 want: ^1.6.1
+84 timing idealTree:node_modules/comment-json Completed in 18ms
+85 timing idealTree:node_modules/array-timsort Completed in 0ms
+86 timing idealTree:node_modules/core-util-is Completed in 0ms
+87 timing idealTree:node_modules/esprima Completed in 0ms
+88 timing idealTree:node_modules/has-own-prop Completed in 0ms
+89 timing idealTree:node_modules/repeat-string Completed in 0ms
+90 silly placeDep ROOT has-flag@4.0.0 OK for: supports-color@7.2.0 want: ^4.0.0
+91 timing idealTree:node_modules/supports-color Completed in 2ms
+92 timing idealTree:node_modules/has-flag Completed in 0ms
+93 timing idealTree:buildDeps Completed in 1055ms
+94 timing idealTree:fixDepFlags Completed in 1ms
+95 timing idealTree Completed in 1072ms
+96 timing reify:loadTrees Completed in 1072ms
+97 timing reify:diffTrees Completed in 2ms
+98 silly reify moves {}
+99 timing reify:retireShallow Completed in 1ms
+100 timing reify:createSparse Completed in 11ms
+101 timing reify:loadBundles Completed in 0ms
+102 silly audit bulk request {
+102 silly audit   '@devacademy/checklist': [ '1.3.0' ],
+102 silly audit   chalk: [ '4.1.2' ],
+102 silly audit   'comment-json': [ '4.2.3' ],
+102 silly audit   'ansi-styles': [ '4.3.0' ],
+102 silly audit   'supports-color': [ '7.2.0' ],
+102 silly audit   'color-convert': [ '2.0.1' ],
+102 silly audit   'color-name': [ '1.1.4' ],
+102 silly audit   'array-timsort': [ '1.0.3' ],
+102 silly audit   'core-util-is': [ '1.0.3' ],
+102 silly audit   esprima: [ '4.0.1' ],
+102 silly audit   'has-own-prop': [ '2.0.0' ],
+102 silly audit   'repeat-string': [ '1.6.1' ],
+102 silly audit   'has-flag': [ '4.0.0' ]
+102 silly audit }
+103 silly tarball no local data for has-flag@https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz. Extracting by manifest.
+104 silly tarball no local data for core-util-is@https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz. Extracting by manifest.
+105 silly tarball no local data for esprima@https://registry.npmjs.org/esprima/-/esprima-4.0.1.tgz. Extracting by manifest.
+106 silly tarball no local data for repeat-string@https://registry.npmjs.org/repeat-string/-/repeat-string-1.6.1.tgz. Extracting by manifest.
+107 silly tarball no local data for color-name@https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz. Extracting by manifest.
+108 silly tarball no local data for array-timsort@https://registry.npmjs.org/array-timsort/-/array-timsort-1.0.3.tgz. Extracting by manifest.
+109 silly tarball no local data for color-convert@https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz. Extracting by manifest.
+110 silly tarball no local data for supports-color@https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz. Extracting by manifest.
+111 silly tarball no local data for ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz. Extracting by manifest.
+112 silly tarball no local data for comment-json@https://registry.npmjs.org/comment-json/-/comment-json-4.2.3.tgz. Extracting by manifest.
+113 silly tarball no local data for @devacademy/checklist@https://registry.npmjs.org/@devacademy/checklist/-/checklist-1.3.0.tgz. Extracting by manifest.
+114 silly tarball no local data for has-own-prop@https://registry.npmjs.org/has-own-prop/-/has-own-prop-2.0.0.tgz. Extracting by manifest.
+115 silly tarball no local data for chalk@https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz. Extracting by manifest.
+116 http fetch GET 200 https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz 113ms (cache miss)
+117 timing reifyNode:node_modules/color-name Completed in 133ms
+118 http fetch GET 200 https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz 119ms (cache miss)
+119 timing reifyNode:node_modules/has-flag Completed in 136ms
+120 http fetch GET 200 https://registry.npmjs.org/array-timsort/-/array-timsort-1.0.3.tgz 116ms (cache miss)
+121 timing reifyNode:node_modules/array-timsort Completed in 135ms
+122 http fetch GET 200 https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz 119ms (cache miss)
+123 timing reifyNode:node_modules/core-util-is Completed in 137ms
+124 http fetch GET 200 https://registry.npmjs.org/repeat-string/-/repeat-string-1.6.1.tgz 119ms (cache miss)
+125 timing reifyNode:node_modules/repeat-string Completed in 138ms
+126 http fetch GET 200 https://registry.npmjs.org/esprima/-/esprima-4.0.1.tgz 130ms (cache miss)
+127 timing reifyNode:node_modules/esprima Completed in 148ms
+128 http fetch GET 200 https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz 197ms (cache miss)
+129 timing reifyNode:node_modules/supports-color Completed in 219ms
+130 http fetch GET 200 https://registry.npmjs.org/has-own-prop/-/has-own-prop-2.0.0.tgz 194ms (cache miss)
+131 timing reifyNode:node_modules/has-own-prop Completed in 221ms
+132 http fetch GET 200 https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz 204ms (cache miss)
+133 timing reifyNode:node_modules/color-convert Completed in 224ms
+134 http fetch GET 200 https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz 202ms (cache miss)
+135 timing reifyNode:node_modules/ansi-styles Completed in 225ms
+136 http fetch GET 200 https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 190ms (cache miss)
+137 timing reifyNode:node_modules/chalk Completed in 228ms
+138 http fetch GET 200 https://registry.npmjs.org/comment-json/-/comment-json-4.2.3.tgz 204ms (cache miss)
+139 timing reifyNode:node_modules/comment-json Completed in 228ms
+140 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 259ms
+141 timing auditReport:getReport Completed in 262ms
+142 silly audit report {}
+143 timing auditReport:init Completed in 0ms
+144 timing reify:audit Completed in 263ms
+145 http fetch GET 200 https://registry.npmjs.org/@devacademy/checklist/-/checklist-1.3.0.tgz 612ms (cache miss)
+146 timing reifyNode:node_modules/@devacademy/checklist Completed in 638ms
+147 timing reify:unpack Completed in 639ms
+148 timing reify:unretire Completed in 1ms
+149 timing build:queue Completed in 3ms
+150 timing build:link:node_modules/@devacademy/checklist Completed in 10ms
+151 timing build:link:node_modules/esprima Completed in 10ms
+152 timing build:link Completed in 11ms
+153 timing build:deps Completed in 15ms
+154 timing build Completed in 16ms
+155 timing reify:build Completed in 16ms
+156 timing reify:trash Completed in 0ms
+157 timing reify:save Completed in 8ms
+158 timing reify Completed in 1764ms
+159 timing command:exec Completed in 7860ms
+160 verbose exit 1
+161 timing npm Completed in 8028ms
+162 verbose code 1
