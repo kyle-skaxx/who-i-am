@@ -1,0 +1,458 @@
+0 verbose cli /home/taranakiyoza/.nvm/versions/node/v16.17.1/bin/node /home/taranakiyoza/.nvm/versions/node/v16.17.1/bin/npm
+1 info using npm@8.15.0
+2 info using node@v16.17.1
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/taranakiyoza/.nvm/versions/node/v16.17.1/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 5ms
+10 timing config:load:file:/home/taranakiyoza/.npmrc Completed in 3ms
+11 timing config:load:user Completed in 3ms
+12 timing config:load:file:/home/taranakiyoza/.nvm/versions/node/v16.17.1/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:credentials Completed in 0ms
+16 timing config:load:setEnvs Completed in 1ms
+17 timing config:load Completed in 13ms
+18 timing npm:load:configload Completed in 13ms
+19 timing npm:load:mkdirpcache Completed in 1ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm install git-iam
+22 verbose argv "install" "git-iam" "--global"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing config:load:flatten Completed in 2ms
+25 timing npm:load:display Completed in 3ms
+26 verbose logfile logs-max:10 dir:/home/taranakiyoza/.npm/_logs
+27 verbose logfile /home/taranakiyoza/.npm/_logs/2022-10-09T22_47_25_244Z-debug-0.log
+28 timing npm:load:logFile Completed in 4ms
+29 timing npm:load:timers Completed in 0ms
+30 timing npm:load:configScope Completed in 0ms
+31 timing npm:load Completed in 23ms
+32 timing arborist:ctor Completed in 1ms
+33 silly logfile start cleaning logs, removing 3 files
+34 silly logfile done cleaning log files
+35 timing idealTree:init Completed in 24ms
+36 timing idealTree:userRequests Completed in 4ms
+37 silly idealTree buildDeps
+38 silly fetch manifest git-iam@*
+39 http fetch GET 200 https://registry.npmjs.org/git-iam 508ms (cache miss)
+40 silly placeDep ROOT git-iam@0.2.2 OK for:  want: *
+41 silly fetch manifest shelljs@^0.8.4
+42 silly fetch manifest superagent@^6.1.0
+43 http fetch GET 200 https://registry.npmjs.org/npm 649ms (cache updated)
+44 http fetch GET 200 https://registry.npmjs.org/shelljs 112ms (cache miss)
+45 http fetch GET 200 https://registry.npmjs.org/superagent 491ms (cache miss)
+46 timing idealTree:#root Completed in 1023ms
+47 silly placeDep node_modules/git-iam shelljs@0.8.5 OK for: git-iam@0.2.2 want: ^0.8.4
+48 silly placeDep node_modules/git-iam superagent@6.1.0 OK for: git-iam@0.2.2 want: ^6.1.0
+49 silly fetch manifest glob@^7.0.0
+50 silly fetch manifest interpret@^1.0.0
+51 silly fetch manifest rechoir@^0.6.2
+52 silly fetch manifest component-emitter@^1.3.0
+53 silly fetch manifest cookiejar@^2.1.2
+54 silly fetch manifest debug@^4.1.1
+55 silly fetch manifest fast-safe-stringify@^2.0.7
+56 silly fetch manifest form-data@^3.0.0
+57 silly fetch manifest formidable@^1.2.2
+58 silly fetch manifest methods@^1.1.2
+59 silly fetch manifest mime@^2.4.6
+60 silly fetch manifest qs@^6.9.4
+61 silly fetch manifest readable-stream@^3.6.0
+62 silly fetch manifest semver@^7.3.2
+63 http fetch GET 200 https://registry.npmjs.org/component-emitter 86ms (cache miss)
+64 http fetch GET 200 https://registry.npmjs.org/cookiejar 87ms (cache miss)
+65 http fetch GET 200 https://registry.npmjs.org/fast-safe-stringify 89ms (cache miss)
+66 http fetch GET 200 https://registry.npmjs.org/glob 241ms (cache revalidated)
+67 http fetch GET 200 https://registry.npmjs.org/interpret 245ms (cache revalidated)
+68 http fetch GET 200 https://registry.npmjs.org/methods 248ms (cache miss)
+69 http fetch GET 200 https://registry.npmjs.org/form-data 255ms (cache miss)
+70 http fetch GET 200 https://registry.npmjs.org/debug 262ms (cache updated)
+71 http fetch GET 200 https://registry.npmjs.org/qs 264ms (cache miss)
+72 http fetch GET 200 https://registry.npmjs.org/readable-stream 267ms (cache updated)
+73 http fetch GET 200 https://registry.npmjs.org/semver 274ms (cache updated)
+74 http fetch GET 200 https://registry.npmjs.org/rechoir 437ms (cache revalidated)
+75 http fetch GET 200 https://registry.npmjs.org/formidable 454ms (cache miss)
+76 http fetch GET 200 https://registry.npmjs.org/mime 990ms (cache miss)
+77 timing idealTree:node_modules/git-iam Completed in 1004ms
+78 silly placeDep node_modules/git-iam glob@7.2.3 OK for: shelljs@0.8.5 want: ^7.0.0
+79 silly placeDep node_modules/git-iam interpret@1.4.0 OK for: shelljs@0.8.5 want: ^1.0.0
+80 silly placeDep node_modules/git-iam rechoir@0.6.2 OK for: shelljs@0.8.5 want: ^0.6.2
+81 silly fetch manifest fs.realpath@^1.0.0
+82 silly fetch manifest inflight@^1.0.4
+83 silly fetch manifest inherits@2
+84 silly fetch manifest minimatch@^3.1.1
+85 silly fetch manifest once@^1.3.0
+86 silly fetch manifest path-is-absolute@^1.0.0
+87 silly fetch manifest resolve@^1.1.6
+88 http fetch GET 200 https://registry.npmjs.org/minimatch 111ms (cache revalidated)
+89 http fetch GET 200 https://registry.npmjs.org/inflight 115ms (cache revalidated)
+90 http fetch GET 200 https://registry.npmjs.org/inherits 115ms (cache revalidated)
+91 http fetch GET 200 https://registry.npmjs.org/path-is-absolute 110ms (cache revalidated)
+92 http fetch GET 200 https://registry.npmjs.org/once 117ms (cache revalidated)
+93 http fetch GET 200 https://registry.npmjs.org/fs.realpath 129ms (cache revalidated)
+94 http fetch GET 200 https://registry.npmjs.org/resolve 144ms (cache revalidated)
+95 timing idealTree:node_modules/git-iam/node_modules/shelljs Completed in 169ms
+96 silly placeDep node_modules/git-iam fs.realpath@1.0.0 OK for: glob@7.2.3 want: ^1.0.0
+97 silly placeDep node_modules/git-iam inflight@1.0.6 OK for: glob@7.2.3 want: ^1.0.4
+98 silly placeDep node_modules/git-iam inherits@2.0.4 OK for: glob@7.2.3 want: 2
+99 silly placeDep node_modules/git-iam minimatch@3.1.2 OK for: glob@7.2.3 want: ^3.1.1
+100 silly placeDep node_modules/git-iam once@1.4.0 OK for: glob@7.2.3 want: ^1.3.0
+101 silly placeDep node_modules/git-iam path-is-absolute@1.0.1 OK for: glob@7.2.3 want: ^1.0.0
+102 silly fetch manifest wrappy@1
+103 silly fetch manifest brace-expansion@^1.1.7
+104 http fetch GET 200 https://registry.npmjs.org/brace-expansion 77ms (cache revalidated)
+105 http fetch GET 200 https://registry.npmjs.org/wrappy 89ms (cache revalidated)
+106 timing idealTree:node_modules/git-iam/node_modules/glob Completed in 118ms
+107 timing idealTree:node_modules/git-iam/node_modules/fs.realpath Completed in 0ms
+108 silly placeDep node_modules/git-iam wrappy@1.0.2 OK for: inflight@1.0.6 want: 1
+109 timing idealTree:node_modules/git-iam/node_modules/inflight Completed in 7ms
+110 timing idealTree:node_modules/git-iam/node_modules/inherits Completed in 0ms
+111 timing idealTree:node_modules/git-iam/node_modules/interpret Completed in 0ms
+112 silly placeDep node_modules/git-iam brace-expansion@1.1.11 OK for: minimatch@3.1.2 want: ^1.1.7
+113 silly fetch manifest balanced-match@^1.0.0
+114 silly fetch manifest concat-map@0.0.1
+115 http fetch GET 200 https://registry.npmjs.org/balanced-match 113ms (cache revalidated)
+116 http fetch GET 200 https://registry.npmjs.org/concat-map 122ms (cache updated)
+117 timing idealTree:node_modules/git-iam/node_modules/minimatch Completed in 128ms
+118 silly placeDep node_modules/git-iam balanced-match@1.0.2 OK for: brace-expansion@1.1.11 want: ^1.0.0
+119 silly placeDep node_modules/git-iam concat-map@0.0.1 OK for: brace-expansion@1.1.11 want: 0.0.1
+120 timing idealTree:node_modules/git-iam/node_modules/brace-expansion Completed in 4ms
+121 timing idealTree:node_modules/git-iam/node_modules/balanced-match Completed in 0ms
+122 timing idealTree:node_modules/git-iam/node_modules/concat-map Completed in 0ms
+123 timing idealTree:node_modules/git-iam/node_modules/once Completed in 0ms
+124 timing idealTree:node_modules/git-iam/node_modules/path-is-absolute Completed in 0ms
+125 silly placeDep node_modules/git-iam resolve@1.22.1 OK for: rechoir@0.6.2 want: ^1.1.6
+126 silly fetch manifest is-core-module@^2.9.0
+127 silly fetch manifest path-parse@^1.0.7
+128 silly fetch manifest supports-preserve-symlinks-flag@^1.0.0
+129 http fetch GET 200 https://registry.npmjs.org/is-core-module 85ms (cache revalidated)
+130 http fetch GET 200 https://registry.npmjs.org/path-parse 90ms (cache revalidated)
+131 http fetch GET 200 https://registry.npmjs.org/supports-preserve-symlinks-flag 90ms (cache revalidated)
+132 timing idealTree:node_modules/git-iam/node_modules/rechoir Completed in 98ms
+133 silly placeDep node_modules/git-iam is-core-module@2.10.0 OK for: resolve@1.22.1 want: ^2.9.0
+134 silly placeDep node_modules/git-iam path-parse@1.0.7 OK for: resolve@1.22.1 want: ^1.0.7
+135 silly placeDep node_modules/git-iam supports-preserve-symlinks-flag@1.0.0 OK for: resolve@1.22.1 want: ^1.0.0
+136 silly fetch manifest has@^1.0.3
+137 http fetch GET 200 https://registry.npmjs.org/has 88ms (cache revalidated)
+138 timing idealTree:node_modules/git-iam/node_modules/resolve Completed in 95ms
+139 silly placeDep node_modules/git-iam has@1.0.3 OK for: is-core-module@2.10.0 want: ^1.0.3
+140 silly fetch manifest function-bind@^1.1.1
+141 http fetch GET 200 https://registry.npmjs.org/function-bind 86ms (cache revalidated)
+142 timing idealTree:node_modules/git-iam/node_modules/is-core-module Completed in 92ms
+143 silly placeDep node_modules/git-iam function-bind@1.1.1 OK for: has@1.0.3 want: ^1.1.1
+144 timing idealTree:node_modules/git-iam/node_modules/has Completed in 4ms
+145 timing idealTree:node_modules/git-iam/node_modules/function-bind Completed in 1ms
+146 timing idealTree:node_modules/git-iam/node_modules/path-parse Completed in 0ms
+147 silly placeDep node_modules/git-iam component-emitter@1.3.0 OK for: superagent@6.1.0 want: ^1.3.0
+148 silly placeDep node_modules/git-iam cookiejar@2.1.3 OK for: superagent@6.1.0 want: ^2.1.2
+149 silly placeDep node_modules/git-iam debug@4.3.4 OK for: superagent@6.1.0 want: ^4.1.1
+150 silly placeDep node_modules/git-iam fast-safe-stringify@2.1.1 OK for: superagent@6.1.0 want: ^2.0.7
+151 silly placeDep node_modules/git-iam form-data@3.0.1 OK for: superagent@6.1.0 want: ^3.0.0
+152 silly placeDep node_modules/git-iam formidable@1.2.6 OK for: superagent@6.1.0 want: ^1.2.2
+153 silly placeDep node_modules/git-iam methods@1.1.2 OK for: superagent@6.1.0 want: ^1.1.2
+154 silly placeDep node_modules/git-iam mime@2.6.0 OK for: superagent@6.1.0 want: ^2.4.6
+155 silly placeDep node_modules/git-iam qs@6.11.0 OK for: superagent@6.1.0 want: ^6.9.4
+156 silly placeDep node_modules/git-iam readable-stream@3.6.0 OK for: superagent@6.1.0 want: ^3.6.0
+157 silly placeDep node_modules/git-iam semver@7.3.8 OK for: superagent@6.1.0 want: ^7.3.2
+158 silly fetch manifest ms@2.1.2
+159 silly fetch manifest asynckit@^0.4.0
+160 silly fetch manifest combined-stream@^1.0.8
+161 silly fetch manifest mime-types@^2.1.12
+162 silly fetch manifest side-channel@^1.0.4
+163 silly fetch manifest string_decoder@^1.1.1
+164 silly fetch manifest util-deprecate@^1.0.1
+165 silly fetch manifest lru-cache@^6.0.0
+166 http fetch GET 200 https://registry.npmjs.org/string_decoder 126ms (cache revalidated)
+167 http fetch GET 200 https://registry.npmjs.org/util-deprecate 127ms (cache revalidated)
+168 http fetch GET 200 https://registry.npmjs.org/lru-cache 127ms (cache revalidated)
+169 http fetch GET 200 https://registry.npmjs.org/side-channel 136ms (cache miss)
+170 http fetch GET 200 https://registry.npmjs.org/asynckit 141ms (cache miss)
+171 http fetch GET 200 https://registry.npmjs.org/combined-stream 142ms (cache miss)
+172 http fetch GET 200 https://registry.npmjs.org/ms 146ms (cache updated)
+173 http fetch GET 200 https://registry.npmjs.org/mime-types 145ms (cache miss)
+174 timing idealTree:node_modules/git-iam/node_modules/superagent Completed in 201ms
+175 timing idealTree:node_modules/git-iam/node_modules/component-emitter Completed in 0ms
+176 timing idealTree:node_modules/git-iam/node_modules/cookiejar Completed in 0ms
+177 silly placeDep node_modules/git-iam ms@2.1.2 OK for: debug@4.3.4 want: 2.1.2
+178 timing idealTree:node_modules/git-iam/node_modules/debug Completed in 2ms
+179 timing idealTree:node_modules/git-iam/node_modules/fast-safe-stringify Completed in 0ms
+180 silly placeDep node_modules/git-iam asynckit@0.4.0 OK for: form-data@3.0.1 want: ^0.4.0
+181 silly placeDep node_modules/git-iam combined-stream@1.0.8 OK for: form-data@3.0.1 want: ^1.0.8
+182 silly placeDep node_modules/git-iam mime-types@2.1.35 OK for: form-data@3.0.1 want: ^2.1.12
+183 silly fetch manifest delayed-stream@~1.0.0
+184 silly fetch manifest mime-db@1.52.0
+185 http fetch GET 200 https://registry.npmjs.org/mime-db 150ms (cache miss)
+186 http fetch GET 200 https://registry.npmjs.org/delayed-stream 282ms (cache miss)
+187 timing idealTree:node_modules/git-iam/node_modules/form-data Completed in 286ms
+188 timing idealTree:node_modules/git-iam/node_modules/asynckit Completed in 0ms
+189 silly placeDep node_modules/git-iam delayed-stream@1.0.0 OK for: combined-stream@1.0.8 want: ~1.0.0
+190 timing idealTree:node_modules/git-iam/node_modules/combined-stream Completed in 1ms
+191 timing idealTree:node_modules/git-iam/node_modules/delayed-stream Completed in 0ms
+192 timing idealTree:node_modules/git-iam/node_modules/formidable Completed in 0ms
+193 timing idealTree:node_modules/git-iam/node_modules/methods Completed in 0ms
+194 timing idealTree:node_modules/git-iam/node_modules/mime Completed in 0ms
+195 silly placeDep node_modules/git-iam mime-db@1.52.0 OK for: mime-types@2.1.35 want: 1.52.0
+196 timing idealTree:node_modules/git-iam/node_modules/mime-types Completed in 5ms
+197 timing idealTree:node_modules/git-iam/node_modules/mime-db Completed in 0ms
+198 timing idealTree:node_modules/git-iam/node_modules/ms Completed in 0ms
+199 silly placeDep node_modules/git-iam side-channel@1.0.4 OK for: qs@6.11.0 want: ^1.0.4
+200 silly fetch manifest call-bind@^1.0.0
+201 silly fetch manifest get-intrinsic@^1.0.2
+202 silly fetch manifest object-inspect@^1.9.0
+203 http fetch GET 200 https://registry.npmjs.org/object-inspect 85ms (cache miss)
+204 http fetch GET 200 https://registry.npmjs.org/call-bind 115ms (cache miss)
+205 http fetch GET 200 https://registry.npmjs.org/get-intrinsic 115ms (cache miss)
+206 timing idealTree:node_modules/git-iam/node_modules/qs Completed in 123ms
+207 silly placeDep node_modules/git-iam string_decoder@1.3.0 OK for: readable-stream@3.6.0 want: ^1.1.1
+208 silly placeDep node_modules/git-iam util-deprecate@1.0.2 OK for: readable-stream@3.6.0 want: ^1.0.1
+209 silly fetch manifest safe-buffer@~5.2.0
+210 http fetch GET 200 https://registry.npmjs.org/safe-buffer 89ms (cache revalidated)
+211 timing idealTree:node_modules/git-iam/node_modules/readable-stream Completed in 101ms
+212 silly placeDep node_modules/git-iam lru-cache@6.0.0 OK for: semver@7.3.8 want: ^6.0.0
+213 silly fetch manifest yallist@^4.0.0
+214 http fetch GET 200 https://registry.npmjs.org/yallist 83ms (cache revalidated)
+215 timing idealTree:node_modules/git-iam/node_modules/semver Completed in 87ms
+216 silly placeDep node_modules/git-iam yallist@4.0.0 OK for: lru-cache@6.0.0 want: ^4.0.0
+217 timing idealTree:node_modules/git-iam/node_modules/lru-cache Completed in 3ms
+218 silly placeDep node_modules/git-iam call-bind@1.0.2 OK for: side-channel@1.0.4 want: ^1.0.0
+219 silly placeDep node_modules/git-iam get-intrinsic@1.1.3 OK for: side-channel@1.0.4 want: ^1.0.2
+220 silly placeDep node_modules/git-iam object-inspect@1.12.2 OK for: side-channel@1.0.4 want: ^1.9.0
+221 silly fetch manifest has-symbols@^1.0.3
+222 http fetch GET 200 https://registry.npmjs.org/has-symbols 89ms (cache miss)
+223 timing idealTree:node_modules/git-iam/node_modules/side-channel Completed in 102ms
+224 timing idealTree:node_modules/git-iam/node_modules/call-bind Completed in 0ms
+225 silly placeDep node_modules/git-iam has-symbols@1.0.3 OK for: get-intrinsic@1.1.3 want: ^1.0.3
+226 timing idealTree:node_modules/git-iam/node_modules/get-intrinsic Completed in 4ms
+227 timing idealTree:node_modules/git-iam/node_modules/has-symbols Completed in 0ms
+228 timing idealTree:node_modules/git-iam/node_modules/object-inspect Completed in 0ms
+229 silly placeDep node_modules/git-iam safe-buffer@5.2.1 OK for: string_decoder@1.3.0 want: ~5.2.0
+230 timing idealTree:node_modules/git-iam/node_modules/string_decoder Completed in 3ms
+231 timing idealTree:node_modules/git-iam/node_modules/safe-buffer Completed in 0ms
+232 timing idealTree:node_modules/git-iam/node_modules/supports-preserve-symlinks-flag Completed in 0ms
+233 timing idealTree:node_modules/git-iam/node_modules/util-deprecate Completed in 0ms
+234 timing idealTree:node_modules/git-iam/node_modules/wrappy Completed in 0ms
+235 timing idealTree:node_modules/git-iam/node_modules/yallist Completed in 1ms
+236 timing idealTree:buildDeps Completed in 3680ms
+237 timing idealTree:fixDepFlags Completed in 3ms
+238 timing idealTree Completed in 3717ms
+239 timing reify:loadTrees Completed in 3728ms
+240 timing reify:diffTrees Completed in 5ms
+241 silly reify moves {}
+242 timing reify:retireShallow Completed in 2ms
+243 timing reify:createSparse Completed in 77ms
+244 timing reify:loadBundles Completed in 0ms
+245 silly audit bulk request {
+245 silly audit   'git-iam': [ '0.2.2' ],
+245 silly audit   shelljs: [ '0.8.5' ],
+245 silly audit   superagent: [ '6.1.0' ],
+245 silly audit   glob: [ '7.2.3' ],
+245 silly audit   interpret: [ '1.4.0' ],
+245 silly audit   rechoir: [ '0.6.2' ],
+245 silly audit   'fs.realpath': [ '1.0.0' ],
+245 silly audit   inflight: [ '1.0.6' ],
+245 silly audit   inherits: [ '2.0.4' ],
+245 silly audit   minimatch: [ '3.1.2' ],
+245 silly audit   once: [ '1.4.0' ],
+245 silly audit   'path-is-absolute': [ '1.0.1' ],
+245 silly audit   wrappy: [ '1.0.2' ],
+245 silly audit   'brace-expansion': [ '1.1.11' ],
+245 silly audit   'balanced-match': [ '1.0.2' ],
+245 silly audit   'concat-map': [ '0.0.1' ],
+245 silly audit   resolve: [ '1.22.1' ],
+245 silly audit   'is-core-module': [ '2.10.0' ],
+245 silly audit   'path-parse': [ '1.0.7' ],
+245 silly audit   'supports-preserve-symlinks-flag': [ '1.0.0' ],
+245 silly audit   has: [ '1.0.3' ],
+245 silly audit   'function-bind': [ '1.1.1' ],
+245 silly audit   'component-emitter': [ '1.3.0' ],
+245 silly audit   cookiejar: [ '2.1.3' ],
+245 silly audit   debug: [ '4.3.4' ],
+245 silly audit   'fast-safe-stringify': [ '2.1.1' ],
+245 silly audit   'form-data': [ '3.0.1' ],
+245 silly audit   formidable: [ '1.2.6' ],
+245 silly audit   methods: [ '1.1.2' ],
+245 silly audit   mime: [ '2.6.0' ],
+245 silly audit   qs: [ '6.11.0' ],
+245 silly audit   'readable-stream': [ '3.6.0' ],
+245 silly audit   semver: [ '7.3.8' ],
+245 silly audit   ms: [ '2.1.2' ],
+245 silly audit   asynckit: [ '0.4.0' ],
+245 silly audit   'combined-stream': [ '1.0.8' ],
+245 silly audit   'mime-types': [ '2.1.35' ],
+245 silly audit   'delayed-stream': [ '1.0.0' ],
+245 silly audit   'mime-db': [ '1.52.0' ],
+245 silly audit   'side-channel': [ '1.0.4' ],
+245 silly audit   string_decoder: [ '1.3.0' ],
+245 silly audit   'util-deprecate': [ '1.0.2' ],
+245 silly audit   'lru-cache': [ '6.0.0' ],
+245 silly audit   yallist: [ '4.0.0' ],
+245 silly audit   'call-bind': [ '1.0.2' ],
+245 silly audit   'get-intrinsic': [ '1.1.3' ],
+245 silly audit   'object-inspect': [ '1.12.2' ],
+245 silly audit   'has-symbols': [ '1.0.3' ],
+245 silly audit   'safe-buffer': [ '5.2.1' ]
+245 silly audit }
+246 silly tarball no local data for git-iam@https://registry.npmjs.org/git-iam/-/git-iam-0.2.2.tgz. Extracting by manifest.
+247 silly tarball no local data for has-symbols@https://registry.npmjs.org/has-symbols/-/has-symbols-1.0.3.tgz. Extracting by manifest.
+248 silly tarball no local data for object-inspect@https://registry.npmjs.org/object-inspect/-/object-inspect-1.12.2.tgz. Extracting by manifest.
+249 silly tarball no local data for get-intrinsic@https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.3.tgz. Extracting by manifest.
+250 silly tarball no local data for delayed-stream@https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz. Extracting by manifest.
+251 silly tarball no local data for asynckit@https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz. Extracting by manifest.
+252 silly tarball no local data for semver@https://registry.npmjs.org/semver/-/semver-7.3.8.tgz. Extracting by manifest.
+253 silly tarball no local data for mime@https://registry.npmjs.org/mime/-/mime-2.6.0.tgz. Extracting by manifest.
+254 silly tarball no local data for qs@https://registry.npmjs.org/qs/-/qs-6.11.0.tgz. Extracting by manifest.
+255 silly tarball no local data for formidable@https://registry.npmjs.org/formidable/-/formidable-1.2.6.tgz. Extracting by manifest.
+256 silly tarball no local data for cookiejar@https://registry.npmjs.org/cookiejar/-/cookiejar-2.1.3.tgz. Extracting by manifest.
+257 silly tarball no local data for fast-safe-stringify@https://registry.npmjs.org/fast-safe-stringify/-/fast-safe-stringify-2.1.1.tgz. Extracting by manifest.
+258 silly tarball no local data for component-emitter@https://registry.npmjs.org/component-emitter/-/component-emitter-1.3.0.tgz. Extracting by manifest.
+259 silly tarball no local data for rechoir@https://registry.npmjs.org/rechoir/-/rechoir-0.6.2.tgz. Extracting by manifest.
+260 silly tarball no local data for interpret@https://registry.npmjs.org/interpret/-/interpret-1.4.0.tgz. Extracting by manifest.
+261 silly tarball no local data for superagent@https://registry.npmjs.org/superagent/-/superagent-6.1.0.tgz. Extracting by manifest.
+262 silly tarball no local data for shelljs@https://registry.npmjs.org/shelljs/-/shelljs-0.8.5.tgz. Extracting by manifest.
+263 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 339ms
+264 timing auditReport:getReport Completed in 342ms
+265 silly audit report {}
+266 timing auditReport:init Completed in 0ms
+267 timing reify:audit Completed in 344ms
+268 timing reifyNode:node_modules/git-iam/node_modules/ms Completed in 350ms
+269 timing reifyNode:node_modules/git-iam/node_modules/path-parse Completed in 349ms
+270 timing reifyNode:node_modules/git-iam/node_modules/brace-expansion Completed in 349ms
+271 timing reifyNode:node_modules/git-iam/node_modules/path-is-absolute Completed in 349ms
+272 timing reifyNode:node_modules/git-iam/node_modules/once Completed in 349ms
+273 timing reifyNode:node_modules/git-iam/node_modules/inflight Completed in 349ms
+274 timing reifyNode:node_modules/git-iam/node_modules/wrappy Completed in 350ms
+275 timing reifyNode:node_modules/git-iam/node_modules/lru-cache Completed in 355ms
+276 timing reifyNode:node_modules/git-iam/node_modules/methods Completed in 356ms
+277 timing reifyNode:node_modules/git-iam/node_modules/inherits Completed in 357ms
+278 timing reifyNode:node_modules/git-iam/node_modules/yallist Completed in 365ms
+279 timing reifyNode:node_modules/git-iam/node_modules/string_decoder Completed in 364ms
+280 timing reifyNode:node_modules/git-iam/node_modules/util-deprecate Completed in 365ms
+281 timing reifyNode:node_modules/git-iam/node_modules/combined-stream Completed in 366ms
+282 timing reifyNode:node_modules/git-iam/node_modules/fs.realpath Completed in 365ms
+283 timing reifyNode:node_modules/git-iam/node_modules/balanced-match Completed in 366ms
+284 timing reifyNode:node_modules/git-iam/node_modules/mime-types Completed in 370ms
+285 timing reifyNode:node_modules/git-iam/node_modules/has Completed in 371ms
+286 timing reifyNode:node_modules/git-iam/node_modules/minimatch Completed in 371ms
+287 timing reifyNode:node_modules/git-iam/node_modules/safe-buffer Completed in 380ms
+288 timing reifyNode:node_modules/git-iam/node_modules/debug Completed in 382ms
+289 timing reifyNode:node_modules/git-iam/node_modules/concat-map Completed in 382ms
+290 timing reifyNode:node_modules/git-iam/node_modules/glob Completed in 389ms
+291 timing reifyNode:node_modules/git-iam/node_modules/form-data Completed in 396ms
+292 timing reifyNode:node_modules/git-iam/node_modules/supports-preserve-symlinks-flag Completed in 396ms
+293 timing reifyNode:node_modules/git-iam/node_modules/is-core-module Completed in 404ms
+294 timing reifyNode:node_modules/git-iam/node_modules/side-channel Completed in 409ms
+295 http fetch GET 200 https://registry.npmjs.org/component-emitter/-/component-emitter-1.3.0.tgz 344ms (cache miss)
+296 timing reifyNode:node_modules/git-iam/node_modules/component-emitter Completed in 409ms
+297 http fetch GET 200 https://registry.npmjs.org/git-iam/-/git-iam-0.2.2.tgz 367ms (cache miss)
+298 timing reifyNode:node_modules/git-iam Completed in 414ms
+299 timing reifyNode:node_modules/git-iam/node_modules/function-bind Completed in 412ms
+300 http fetch GET 200 https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.3.tgz 365ms (cache miss)
+301 timing reifyNode:node_modules/git-iam/node_modules/call-bind Completed in 416ms
+302 http fetch GET 200 https://registry.npmjs.org/cookiejar/-/cookiejar-2.1.3.tgz 356ms (cache miss)
+303 timing reifyNode:node_modules/git-iam/node_modules/cookiejar Completed in 415ms
+304 timing reifyNode:node_modules/git-iam/node_modules/get-intrinsic Completed in 419ms
+305 http fetch GET 200 https://registry.npmjs.org/has-symbols/-/has-symbols-1.0.3.tgz 379ms (cache miss)
+306 http fetch GET 200 https://registry.npmjs.org/fast-safe-stringify/-/fast-safe-stringify-2.1.1.tgz 365ms (cache miss)
+307 timing reifyNode:node_modules/git-iam/node_modules/mime-db Completed in 428ms
+308 timing reifyNode:node_modules/git-iam/node_modules/has-symbols Completed in 431ms
+309 timing reifyNode:node_modules/git-iam/node_modules/fast-safe-stringify Completed in 429ms
+310 http fetch GET 200 https://registry.npmjs.org/interpret/-/interpret-1.4.0.tgz 355ms (cache miss)
+311 timing reifyNode:node_modules/git-iam/node_modules/interpret Completed in 430ms
+312 http fetch GET 200 https://registry.npmjs.org/mime/-/mime-2.6.0.tgz 378ms (cache miss)
+313 timing reifyNode:node_modules/git-iam/node_modules/mime Completed in 434ms
+314 http fetch GET 200 https://registry.npmjs.org/formidable/-/formidable-1.2.6.tgz 384ms (cache miss)
+315 warn deprecated formidable@1.2.6: Please upgrade to latest, formidable@v2 or formidable@v3! Check these notes: https://bit.ly/2ZEqIau
+316 timing reifyNode:node_modules/git-iam/node_modules/formidable Completed in 443ms
+317 http fetch GET 200 https://registry.npmjs.org/rechoir/-/rechoir-0.6.2.tgz 370ms (cache miss)
+318 timing reifyNode:node_modules/git-iam/node_modules/rechoir Completed in 443ms
+319 timing reifyNode:node_modules/git-iam/node_modules/readable-stream Completed in 458ms
+320 http fetch GET 200 https://registry.npmjs.org/qs/-/qs-6.11.0.tgz 421ms (cache miss)
+321 timing reifyNode:node_modules/git-iam/node_modules/qs Completed in 478ms
+322 http fetch GET 200 https://registry.npmjs.org/object-inspect/-/object-inspect-1.12.2.tgz 444ms (cache miss)
+323 timing reifyNode:node_modules/git-iam/node_modules/object-inspect Completed in 494ms
+324 http fetch GET 200 https://registry.npmjs.org/shelljs/-/shelljs-0.8.5.tgz 418ms (cache miss)
+325 timing reifyNode:node_modules/git-iam/node_modules/shelljs Completed in 497ms
+326 http fetch GET 200 https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz 456ms (cache miss)
+327 timing reifyNode:node_modules/git-iam/node_modules/delayed-stream Completed in 507ms
+328 http fetch GET 200 https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz 457ms (cache miss)
+329 timing reifyNode:node_modules/git-iam/node_modules/asynckit Completed in 512ms
+330 http fetch GET 200 https://registry.npmjs.org/semver/-/semver-7.3.8.tgz 459ms (cache miss)
+331 timing reifyNode:node_modules/git-iam/node_modules/semver Completed in 513ms
+332 http fetch GET 200 https://registry.npmjs.org/superagent/-/superagent-6.1.0.tgz 447ms (cache miss)
+333 warn deprecated superagent@6.1.0: Please upgrade to v7.0.2+ of superagent.  We have fixed numerous issues with streams, form-data, attach(), filesystem errors not bubbling up (ENOENT on attach()), and all tests are now passing.  See the releases tab for more information at <https://github.com/visionmedia/superagent/releases>.
+334 timing reifyNode:node_modules/git-iam/node_modules/superagent Completed in 524ms
+335 timing reifyNode:node_modules/git-iam/node_modules/resolve Completed in 538ms
+336 timing reify:unpack Completed in 541ms
+337 timing reify:unretire Completed in 0ms
+338 timing build:queue Completed in 2ms
+339 timing build:link:node_modules/git-iam Completed in 5ms
+340 timing build:link:node_modules/git-iam/node_modules/mime Completed in 5ms
+341 timing build:link:node_modules/git-iam/node_modules/resolve Completed in 4ms
+342 timing build:link:node_modules/git-iam/node_modules/shelljs Completed in 4ms
+343 timing build:link:node_modules/git-iam/node_modules/semver Completed in 4ms
+344 timing build:link Completed in 6ms
+345 timing build:deps Completed in 8ms
+346 timing build Completed in 9ms
+347 timing reify:build Completed in 9ms
+348 timing reify:trash Completed in 0ms
+349 timing reify Completed in 4412ms
+350 silly ADD node_modules/git-iam
+351 silly ADD node_modules/git-iam/node_modules/safe-buffer
+352 silly ADD node_modules/git-iam/node_modules/has-symbols
+353 silly ADD node_modules/git-iam/node_modules/object-inspect
+354 silly ADD node_modules/git-iam/node_modules/get-intrinsic
+355 silly ADD node_modules/git-iam/node_modules/call-bind
+356 silly ADD node_modules/git-iam/node_modules/yallist
+357 silly ADD node_modules/git-iam/node_modules/lru-cache
+358 silly ADD node_modules/git-iam/node_modules/util-deprecate
+359 silly ADD node_modules/git-iam/node_modules/string_decoder
+360 silly ADD node_modules/git-iam/node_modules/side-channel
+361 silly ADD node_modules/git-iam/node_modules/mime-db
+362 silly ADD node_modules/git-iam/node_modules/delayed-stream
+363 silly ADD node_modules/git-iam/node_modules/mime-types
+364 silly ADD node_modules/git-iam/node_modules/combined-stream
+365 silly ADD node_modules/git-iam/node_modules/asynckit
+366 silly ADD node_modules/git-iam/node_modules/ms
+367 silly ADD node_modules/git-iam/node_modules/semver
+368 silly ADD node_modules/git-iam/node_modules/readable-stream
+369 silly ADD node_modules/git-iam/node_modules/qs
+370 silly ADD node_modules/git-iam/node_modules/mime
+371 silly ADD node_modules/git-iam/node_modules/methods
+372 silly ADD node_modules/git-iam/node_modules/formidable
+373 silly ADD node_modules/git-iam/node_modules/form-data
+374 silly ADD node_modules/git-iam/node_modules/fast-safe-stringify
+375 silly ADD node_modules/git-iam/node_modules/debug
+376 silly ADD node_modules/git-iam/node_modules/cookiejar
+377 silly ADD node_modules/git-iam/node_modules/component-emitter
+378 silly ADD node_modules/git-iam/node_modules/function-bind
+379 silly ADD node_modules/git-iam/node_modules/has
+380 silly ADD node_modules/git-iam/node_modules/supports-preserve-symlinks-flag
+381 silly ADD node_modules/git-iam/node_modules/path-parse
+382 silly ADD node_modules/git-iam/node_modules/is-core-module
+383 silly ADD node_modules/git-iam/node_modules/resolve
+384 silly ADD node_modules/git-iam/node_modules/concat-map
+385 silly ADD node_modules/git-iam/node_modules/balanced-match
+386 silly ADD node_modules/git-iam/node_modules/brace-expansion
+387 silly ADD node_modules/git-iam/node_modules/wrappy
+388 silly ADD node_modules/git-iam/node_modules/path-is-absolute
+389 silly ADD node_modules/git-iam/node_modules/once
+390 silly ADD node_modules/git-iam/node_modules/minimatch
+391 silly ADD node_modules/git-iam/node_modules/inherits
+392 silly ADD node_modules/git-iam/node_modules/inflight
+393 silly ADD node_modules/git-iam/node_modules/fs.realpath
+394 silly ADD node_modules/git-iam/node_modules/rechoir
+395 silly ADD node_modules/git-iam/node_modules/interpret
+396 silly ADD node_modules/git-iam/node_modules/glob
+397 silly ADD node_modules/git-iam/node_modules/superagent
+398 silly ADD node_modules/git-iam/node_modules/shelljs
+399 timing command:install Completed in 4422ms
+400 notice
+400 notice New [33mminor[39m version of npm available! [31m8.15.0[39m -> [32m8.19.2[39m
+400 notice Changelog: [36mhttps://github.com/npm/cli/releases/tag/v8.19.2[39m
+400 notice Run [32mnpm install -g npm@8.19.2[39m to update!
+400 notice
+401 verbose exit 0
+402 timing npm Completed in 4513ms
+403 info ok

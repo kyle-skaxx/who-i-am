@@ -1,7 +1,11 @@
 [core]
 	editor = code --wait
-[user]
-	name = Kyle Longakit
-	email = kylelongakit@gmail.com
 [credential]
 	helper = store
+[users]
+	url = https://gist.githubusercontent.com/ben-hoggan/f3401d9568a655453bf5d5e702169067/raw/
+[alias]
+	iam = !git-iam
+[user]
+	email = skljdfsd@gmail.com
+	name = kyle-skaxx

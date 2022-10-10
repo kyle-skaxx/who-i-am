@@ -1,0 +1,1464 @@
+: 1661766646:0;omz theme set bira
+: 1661766867:0;code .
+: 1661774608:0;git config --global core.editor "code --wait"
+: 1661774637:0;type nvm
+: 1661774667:0;which node
+: 1661774706:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+: 1661774842:0;omz reload
+: 1661774946:0;nvm install --lts
+: 1661774963:0;nvm alias default modenvm current
+: 1661774968:0;nvm current 
+: 1661775000:0;npx --yes @donothing/can-u-build-sqlite3
+: 1661775028:0;mkdir ~/devacademy
+: 1661775040:0;cd ~/devacademy
+: 1661775097:0;git config --global user.name "Kyle Longakit"
+: 1661775118:0;git config --global kylelongakit@gmail.com
+: 1661775146:0;git config --global credential.helper store
+: 1661776599:0;git clone https://github.com/dev-academy-foundations/clone-a-repo-test.git
+: 1661776613:0;cd clone-a-repo-test
+: 1661776615:0;code .
+: 1661776792:0;npx --yes @devacademy/checklist
+: 1661776827:0;open .
+: 1661777049:0;cd clone-a-repo-test-
+: 1661777059:0;cd clone-a-repo-test
+: 1661777074:0;git clone https://github.com/dev-academy-foundations/clone-a-repo-test.git
+: 1661777088:0;cd clone-a-repo-test
+: 1661777094:0;code .
+: 1661777111:0;open 
+: 1661777113:0;open .
+: 1661777153:0;npx --yes @devacademy/checklist
+: 1661808504:0;sudo apt-get-update
+: 1661808520:0;sudo apt-get update
+: 1661808567:0;sudo apt-get install build-essential python-is-python3 zsh
+: 1661808596:0;chsh -s $(which zsh)
+: 1661808639:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1661808656:0;omz theme set bira
+: 1661808664:0;code .
+: 1661808820:0;npx --yes @devacademy/checklist
+: 1661808987:0;sudo npm i-g npx
+: 1661809004:0;type nvm
+: 1661809014:0;which node
+: 1661809076:0;type nvm
+: 1661809306:0;nvm install --lts
+: 1661809366:0;npx --yes @devacademy/checklist
+: 1661810521:0;npx checklist yes @devacademy/checklist
+: 1661810551:0;nvm
+: 1661853427:0;clear
+: 1661853729:0;ls
+: 1661853734:0;ls 
+: 1661853745:0;reset
+: 1661853750:0;ls
+: 1661853861:0;cd taranakiyoza
+: 1661853866:0;ls
+: 1661853871:0;cd photos
+: 1661853904:0;CD DESKTOP
+: 1661853908:0;cd desktp
+: 1661853912:0;cd desktop
+: 1661853944:0;cd devacademy
+: 1661853950:0;ls
+: 1661853977:0;cd dev academy
+: 1661853988:0;mkdir another_directory
+: 1661853991:0;ls
+: 1661854012:0;cd clone-a-repo-test
+: 1661854027:0;cd .. 
+: 1661854061:0;rm -rf another_directory/
+: 1661854067:0;ls
+: 1661854587:0;clear
+: 1661854605:0;git clone https://github.com/dev-academy-foundations/clone-a-repo-test.git
+: 1661854730:0;sudo apt-get 
+: 1661854787:0;dk
+: 1661854795:0;df
+: 1661854817:0;lsusb
+: 1661854824:0;lsmod
+: 1661854832:0;grep
+: 1661854855:0;cd kyle
+: 1661854860:0;cd yes
+: 1661854874:0;cd ..
+: 1661854886:0;ls
+: 1661854916:0;cd usr
+: 1661854920:0;ls
+: 1661854924:0;cd ..
+: 1661854929:0;cd bin
+: 1661854933:0;ls
+: 1661854936:0;cd ..
+: 1661854977:0;reset
+: 1661854978:0;ls
+: 1661854989:0;snap
+: 1661855154:0;cat clone-a-repo-test
+: 1661856061:0;cd clone-a-repo-test
+: 1661856071:0;cd ..
+: 1661856077:0;cd home
+: 1661856080:0;ls
+: 1661856093:0;cd taranakiyoza
+: 1661857630:0;git clone https://github.com/dev-academy-foundations/clone-a-repo-test.git
+: 1661857637:0;ld
+: 1661857638:0;ls
+: 1661857644:0;clone-a-repo-test
+: 1661857655:0;open .
+: 1661857660:0;code .
+: 1661857712:0;ls
+: 1661857720:0;mkdir "yoza"
+: 1661857723:0;ls
+: 1661857748:0;git branch -a
+: 1661857843:0;git https://github.com/dev-academy-foundations/ko-wai-koe
+: 1661857854:0;git grab https://github.com/dev-academy-foundations/ko-wai-koe
+: 1661857862:0;git pull https://github.com/dev-academy-foundations/ko-wai-koe
+: 1661857899:0;git pull https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661857920:0;ls
+: 1661857922:0;cd ..
+: 1661857924:0;ls
+: 1661857933:0;cd ..
+: 1661857935:0;ls
+: 1661857939:0;cd home
+: 1661857957:0;ls
+: 1661857989:0;git branch taranaki yoza
+: 1661858142:0;git grab https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661858146:0;git pull https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661858271:0;git checkout
+: 1661858279:0;git checkout -b https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661858304:0;git status
+: 1661858310:0;git init
+: 1661858389:0;git kyle-skaxx
+: 1661858395:0;git pull kyle-skaxx
+: 1661858531:0;git init kyle-skaxx
+: 1661858606:0;git pull "https://github.com/dev-academy-foundations/ko-wai-koe.git"
+: 1661858661:0;mkdir kyle-skaxx
+: 1661858667:0;ls
+: 1661858679:0;cd taranakiyoza
+: 1661858683:0;mkdir kyle-skaxx
+: 1661858707:0;git pull kyle-skaxx
+: 1661858711:0;ls
+: 1661858723:0;git pull kyle-skaxx.git
+: 1661858753:0;mkdir "Who I am"
+: 1661858755:0;ls
+: 1661859053:0;git grab https://github.com/kyle-skaxx/who-i-am.git
+: 1661859065:0;git pull https://github.com/kyle-skaxx/who-i-am.git
+: 1661859097:0;git init
+: 1661859110:0;git pull https://github.com/kyle-skaxx/who-i-am.git
+: 1661859241:0;git status
+: 1661859251:0;ls
+: 1661859265:0;git add devacademy/
+: 1661859301:0;git rm --cached devacademy/clone-a-repo-test
+: 1661859310:0;-f 
+: 1661859317:0;f
+: 1661859383:0;cd/
+: 1661859389:0;cd~
+: 1661859392:0;cd 
+: 1661859403:0;ls
+: 1661859406:0;cd ..
+: 1661859408:0;;s
+: 1661859409:0;ls
+: 1661859413:0;cd ..
+: 1661859415:0;ls
+: 1661859424:0;cd media
+: 1661859428:0;ls
+: 1661859438:0;cd media
+: 1661859442:0;cd ..
+: 1661859445:0;cd snap
+: 1661859447:0;ls
+: 1661859451:0;cd ..
+: 1661859458:0;cd lost+found
+: 1661859495:0;fsck
+: 1661859520:0;cd home
+: 1661859526:0;cd taranaki yoza
+: 1661859531:0;cd taranakiyoza
+: 1661859539:0;ls
+: 1661859558:0;cd kylel
+: 1661859571:0;code .
+: 1661859672:0;cd~
+: 1661859676:0;cd ~
+: 1661859689:0;cd ;
+: 1661859691:0;cd 
+: 1661859692:0;ls
+: 1661859933:0;git status
+: 1661859947:0;git rm --cached 
+: 1661859950:0;ls
+: 1661859960:0;cd clone-a-repo-test
+: 1661859963:0;ls
+: 1661859969:0;cd et
+: 1661859975:0;cd readme.md
+: 1661859981:0;cd README.md
+: 1661859997:0;ls
+: 1661859998:0;clear
+: 1661860000:0;ls
+: 1661860002:0;cd..
+: 1661860004:0;cd ..
+: 1661860005:0;ls
+: 1661860007:0;cd ..
+: 1661860031:0;ls
+: 1661860033:0;cd..
+: 1661860150:0;ls
+: 1661860249:0;git remote show origin
+: 1661860256:0;git remote 
+: 1661860259:0;git remote show
+: 1661860260:0;ls
+: 1661860278:0;git pull origin experiment
+: 1661860523:0;$home
+: 1661860541:0;~taranakiyoza
+: 1661860543:0;ls
+: 1661861307:0;git init
+: 1661861326:0;git add kyle-skaxx
+: 1661861329:0;ls
+: 1661861349:0;git commit -m "What"
+: 1661861386:0;git remote add origin https://github.com/kyle-skaxx/who-i-am.git
+: 1661861393:0;git push -u main
+: 1661861397:0;ls
+: 1661861414:0;git branch kyle-skaxx
+: 1661861415:0;ls
+: 1661861419:0;cd kyle-skaxx
+: 1661861420:0;ls
+: 1661861446:0;$ pwd
+: 1661861457:0;ls -la
+: 1661861463:0;ls
+: 1661861466:0;clear
+: 1661861467:0;ls
+: 1661861473:0;cd ..
+: 1661861490:0;ls -la
+: 1661861718:0;git status
+: 1661861728:0;status
+: 1661861730:0;git status
+: 1661861757:0;git add -a
+: 1661862117:0;git clome 
+: 1661862119:0;git clone 
+: 1661862164:0;git clone https://github.com/dev-academy-foundations/clone-a-repo-test.git
+: 1661862292:0;git pull https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661862403:0;ls
+: 1661862406:0;cd ..
+: 1661862408:0;cd //
+: 1661862412:0;cd ..
+: 1661862414:0;ls
+: 1661862416:0;cls
+: 1661862417:0;ls
+: 1661897927:0;cd ~
+: 1661897929:0;ls
+: 1661897934:0;cd devacademy
+: 1661897936:0;ls
+: 1661897968:0;git clone https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661898119:0;git config --list
+: 1661898153:0;ls
+: 1661898158:0;cd devacademy
+: 1661898160:0;ls
+: 1661898168:0;git clone https://github.com/dev-academy-foundations/ko-wai-koe.git
+: 1661900483:0;ls
+: 1661901043:0;cd ko-wai-koe
+: 1661901049:0;git push ko-wai-koe
+: 1661901055:0;ls
+: 1661901078:0;mkdir kyle-longakit.md
+: 1661901080:0;ls
+: 1661901086:0;cd kyle-longakit.md
+: 1661901210:0;ls
+: 1661901321:0;cd ..
+: 1661901325:0;cd readme.md
+: 1661901346:0;ls
+: 1661901352:0;cd readme.md
+: 1661901455:0;cd Trish-tataro
+: 1661901463:0;cd kirsty-brewin.md
+: 1661901466:0;ls
+: 1661901470:0;clear
+: 1661901470:0;ls
+: 1661901476:0;cd jinwoo-park.md
+: 1661901479:0;code .
+: 1661901997:0;open devacademy
+: 1661902017:0;open -a explorer
+: 1661902205:0;touch kyle-longakit.txt
+: 1661902206:0;ls
+: 1661902245:0;rm -rf kyle-longakit.txt
+: 1661902246:0;ls
+: 1661902585:0;cd kyle-longakit.md
+: 1661902590:0;clear
+: 1661902591:0;ls
+: 1661902600:0;mkdir kyle-longakit.md
+: 1661902606:0;cd kyle-longakit.md
+: 1661902608:0;ls
+: 1661902612:0;code.
+: 1661902614:0;code .
+: 1661902719:0;clear
+: 1661903420:0;rmdir kyle-longakit.md
+: 1661903424:0;ls
+: 1661903427:0;cd .
+: 1661903429:0;cd ..
+: 1661903431:0;rmdir kyle-longakit.md
+: 1661903442:0;touch kyle-longakit.md
+: 1661903444:0;ls
+: 1661903470:0;code .
+: 1661903810:0;pwd
+: 1661903834:0;git add kyle-longakit.md
+: 1661904313:0;git commit -m "initial commit"
+: 1661904432:0;git push -u origin master
+: 1661904441:0;git push
+: 1661904465:0;git pull
+: 1661904520:0;git commit -m "initial commit"
+: 1661904527:0;git push
+: 1661904917:0;ls
+: 1661904920:0;pwd
+: 1661904924:0;cd ..
+: 1661904925:0;ls
+: 1661904934:0;rmdir clone-a-repo-test
+: 1661904963:0;mkdir reflections
+: 1661904971:0;cd reflections
+: 1661905032:0;git pull https://github.com/kyle-skaxx/reflections.git
+: 1661905050:0;git pull "https://github.com/kyle-skaxx/reflections.git"
+: 1661905063:0;git branch https://github.com/kyle-skaxx/reflections.git
+: 1661905138:0;git clone https://github.com/kyle-skaxx/reflections.git
+: 1661905144:0;ls
+: 1661905153:0;cd reflections
+: 1661905156:0;ls
+: 1661905233:0;code .
+: 1661905432:0;git add
+: 1661905440:0;git add reflections 
+: 1661905457:0;git add /devacademy/reflections/reflections
+: 1661905472:0;git push 
+: 1661905499:0;git push origin main
+: 1661905556:0;git commit
+: 1661905565:0;git add reflections
+: 1661905585:0;git add sprint-1/my-reflections-sprint-1.md
+: 1661905589:0;git commit
+: 1661905611:0;git commit -m initial commit
+: 1661905628:0;git push origin main
+: 1661905644:0;code.
+: 1661905647:0;code .
+: 1661905743:0;exi
+: 1661905745:0;exit
+: 1661905944:0;ls
+: 1661905948:0;cd devacademy
+: 1661905951:0;ls
+: 1661905956:0;reflections
+: 1661905964:0;ls
+: 1661905966:0;reflections
+: 1661905968:0;ls
+: 1661905976:0;sprint-1
+: 1661905980:0;ls
+: 1661905990:0;my-reflections-sprint-1.md
+: 1661906072:0;code .
+: 1661906091:0;git push origin main
+: 1661912205:0;ls
+: 1661917061:0;my-reflections-sprint-1.md
+: 1661917071:0;cd my-reflections-sprint-1.md
+: 1661917096:0;clear
+: 1661917097:0;code .
+: 1661917313:0;clear
+: 1661917314:0;git add 
+: 1661917321:0;git add ..
+: 1661917327:0;git status
+: 1661917372:0;git commit -m initial commit
+: 1661917437:0;git commit -m "initial commit"
+: 1661917450:0;git push 
+: 1661923438:0;ls
+: 1661923441:0;cd ~
+: 1661923445:0;ls
+: 1661923449:0;devacademy
+: 1661923452:0;ls
+: 1661923468:0;git clone https://github.com/kyle-skaxx/kyle-skaxx.github.io.git
+: 1661923477:0;pwd
+: 1661923482:0;ls
+: 1661923489:0;kyle-skaxx.github.io
+: 1661923525:0;touch index.html
+: 1661923528:0;ls
+: 1661923530:0;code.
+: 1661923532:0;code .
+: 1661923656:0;git commit a
+: 1661923659:0;git commit
+: 1661923664:0;git add
+: 1661923670:0;git add index.html
+: 1661923673:0;git commit
+: 1661923715:0;git push 
+: 1661923749:0;clear
+: 1661923831:0;ls
+: 1661923835:0;cd ..
+: 1661923836:0;ls
+: 1661923840:0;reflections
+: 1661923843:0;ls
+: 1661923853:0;sprin-1
+: 1661923857:0;sprint-1
+: 1661923859:0;ls
+: 1661923873:0;my-reflections-sprint-1.md
+: 1661923880:0;code .
+: 1661924370:0;git add
+: 1661924380:0;ls
+: 1661924393:0;git add my-reflections-sprint-1.md
+: 1661925466:0;git commit -m commit
+: 1661925489:0;help
+: 1661925647:0;--help
+: 1661925649:0;-help
+: 1661925650:0;help 
+: 1661928419:0;clear
+: 1661928421:0;ls
+: 1661928425:0;git add a
+: 1661928429:0;git add -a
+: 1661928436:0;git add -all
+: 1661928445:0;git add --all
+: 1661928451:0;git status
+: 1661928456:0;git commit 
+: 1661928595:0;code .
+: 1661928996:0;ls
+: 1661928996:0;sls
+: 1661928998:0;ls
+: 1661929004:0;kyle-skaxx
+: 1661929007:0;sl
+: 1661929007:0;ls
+: 1661929012:0;devacademy
+: 1661929014:0;cd ..
+: 1661929016:0;devacademy
+: 1661929018:0;ls
+: 1661929023:0;reflections
+: 1661929026:0;reflecrions
+: 1661929030:0;reflections
+: 1661929032:0;ls
+: 1661929038:0;sprint-1
+: 1661929039:0;ls
+: 1661929045:0;git push
+: 1661931177:0;ls
+: 1661931184:0;end-of-sprint-1.md
+: 1661931186:0;ls
+: 1661931193:0;code .
+: 1661931538:0;git status
+: 1661931545:0;git commit
+: 1661931548:0;git add a
+: 1661931552:0;git add -all
+: 1661931555:0;git add -A
+: 1661931571:0;git commit
+: 1661931635:0;git push
+: 1661931651:0;clear
+: 1661931654:0;git pull
+: 1661931659:0;git push main
+: 1661931663:0;ls
+: 1661931670:0;kyle-skaxx
+: 1661931675:0;reflections
+: 1661931677:0;ls
+: 1661931682:0;cd ..
+: 1661931684:0;devacademy
+: 1661931685:0;ls
+: 1661931688:0;reflections
+: 1661931696:0;git commit
+: 1661931709:0;s
+: 1661931709:0;ls
+: 1661931713:0;sprint-1
+: 1661931716:0;ls
+: 1661931737:0;git add end-of-sprint-1.md
+: 1661931741:0;git commit 
+: 1661931826:0;git add end-of-sprint-1.md
+: 1661931831:0;ls
+: 1661931834:0;devacademy
+: 1661931837:0;reflections
+: 1661931844:0;sprint01
+: 1661931848:0;sprint-1
+: 1661931863:0;ls
+: 1661931874:0;git add end-of-sprint-1.md
+: 1661931882:0;git commit -m end of week commit
+: 1661931896:0;git commit -m "end of the week commit"
+: 1661931899:0;git push
+: 1662023986:0;ls
+: 1662023990:0;cd ..
+: 1662023992:0;ls
+: 1662023994:0;cd ..
+: 1662023997:0;ls
+: 1662024005:0;kyle-skaxx.github.io
+: 1662024007:0;ls
+: 1662024012:0;code .
+: 1662024055:0;ls
+: 1662024062:0;devacademt
+: 1662024067:0;devacademy
+: 1662024069:0;ls
+: 1662024076:0;kyle-skaxx.github.io
+: 1662024077:0;ls
+: 1662024086:0;mkdir blog
+: 1662024090:0;blog
+: 1662024107:0;touch te-houtaewa-template.html
+: 1662024111:0;code .
+: 1662024267:0;git status
+: 1662024270:0;git add 
+: 1662024279:0;ls
+: 1662024281:0;devacademt
+: 1662024284:0;devacademy
+: 1662024287:0;ls
+: 1662024292:0;kyle-skaxx.github.io
+: 1662024293:0;ls
+: 1662024294:0;blog
+: 1662024295:0;ls
+: 1662024299:0;git add
+: 1662024310:0;git add te-houtaewa-templatehtml
+: 1662024324:0;git add te-houtaewa-template-template.html
+: 1662024335:0;clear
+: 1662024341:0;git add -a
+: 1662024344:0;git add -A
+: 1662024347:0;ls
+: 1662024374:0;git commit -m "blog first commit"
+: 1662024377:0;git push
+: 1662024436:0;cd ..
+: 1662024443:0;mkdir styles
+: 1662024448:0;styles
+: 1662024456:0;touch main.css
+: 1662024486:0;ls
+: 1662024489:0;cd ..
+: 1662024493:0;blog
+: 1662024495:0;code .
+: 1662024698:0;ls
+: 1662024700:0;devacademy
+: 1662024705:0;kyleskaxx.github.io
+: 1662024710:0;kyle-skaxx.github.ui
+: 1662024720:0;kyle-skaxx.github.io
+: 1662024721:0;blog
+: 1662024724:0;ls
+: 1662024729:0;git add
+: 1662024733:0;git add -A
+: 1662024748:0;git commit -m "stylesheet added commit"
+: 1662024754:0;git push
+: 1662024831:0;ls
+: 1662024844:0;open te-houtaewa-template.html
+: 1662024868:0;wslview te-houtaewa-template.html
+: 1662517112:0;ls
+: 1662517116:0;git status
+: 1662517119:0;git push
+: 1662517134:0;explorer .
+: 1662523428:0;git statu
+: 1662523430:0;git status
+: 1662523494:0;ls
+: 1662523497:0;devacademy
+: 1662523499:0;ls
+: 1662523505:0;kyle-skaxx.github.io
+: 1662523514:0;ls
+: 1662523518:0;blog
+: 1662523518:0;ls
+: 1662523522:0;cd ..
+: 1662523523:0;ls
+: 1662523527:0;index.html
+: 1662523530:0;ls
+: 1662523535:0;code .
+: 1662523604:0;ls
+: 1662523607:0;devacademy
+: 1662523612:0;ls
+: 1662523617:0;cd kyle-skaxx.github.io
+: 1662523619:0;;s
+: 1662523622:0;cd styles
+: 1662523632:0;ls
+: 1662523640:0;touch .
+: 1662523642:0;ls
+: 1662523645:0;code. 
+: 1662523647:0;code .
+: 1662532591:0;git add -A
+: 1662532613:0;git commit -m commit for font
+: 1662532621:0;git status
+: 1662532623:0;git push
+: 1662532629:0;ls
+: 1662532633:0;devacademy
+: 1662532636:0;ls
+: 1662532642:0;kyle-skaxx.github.io
+: 1662532644:0;git add -A
+: 1662532659:0;git commit -m commit for font
+: 1662532670:0;git commit -m commit-for-font
+: 1662532675:0;git push
+: 1662532887:0;git add -A
+: 1662532917:0;git commit -m commitforstylesheet
+: 1662532919:0;git push
+: 1662533113:0;l
+: 1662533114:0;ls
+: 1662533129:0;rm -rf blog 
+: 1662533131:0;ls
+: 1662533221:0;pwd
+: 1662533387:0;git add -A
+: 1662533396:0;git commit -m commit
+: 1662533399:0;ls 
+: 1662533401:0;git push
+: 1662533520:0;ls
+: 1662533521:0;styles
+: 1662533523:0;ls
+: 1662533526:0;main.css
+: 1662533531:0;pwd
+: 1662533572:0;git add -A 
+: 1662533583:0;git commit -m please work
+: 1662533591:0;git commit -m please-work
+: 1662533593:0;ls
+: 1662533594:0;git push
+: 1662533680:0;git add -A
+: 1662533688:0;git commit -m aklsjdlaskd
+: 1662533689:0;git push
+: 1662533824:0;git add -A
+: 1662533912:0;git commit -m thisisitthecommit
+: 1662533914:0;ls
+: 1662533916:0;git push
+: 1662579059:0;git add -A
+: 1662579067:0;git commit -m commit
+: 1662579071:0;git push
+: 1662579530:0;git add -A
+: 1662579544:0;git commit -m font-commit
+: 1662579545:0;git push
+: 1662580520:0;git add -A
+: 1662580531:0;git commit -m headingcommit
+: 1662580536:0;git push
+: 1662585937:0;git add -A 
+: 1662585945:0;git commit -m heading-commit
+: 1662585947:0;git push
+: 1662586232:0;git add -A
+: 1662586243:0;git commit -m headingcommit2
+: 1662586247:0;git push
+: 1662587443:0;ls
+: 1662587446:0;cd ..
+: 1662587447:0;ls
+: 1662587452:0;mkdir blog 
+: 1662587453:0;ls
+: 1662587457:0;blog 
+: 1662587468:0;touch html-css.html
+: 1662587702:0;code .
+: 1662587985:0;ls
+: 1662587987:0;cd ..
+: 1662587992:0;ls
+: 1662588527:0;git add -A
+: 1662588546:0;git commit -m filesorting-commit
+: 1662588548:0;git push
+: 1662679195:0;ls
+: 1662679200:0;blog
+: 1662679203:0;code .
+: 1662717538:0;git add -A
+: 1662717543:0;ls
+: 1662717546:0;devacademy
+: 1662717549:0;git add -A
+: 1662717558:0;git commit -m homepage-commit
+: 1662717564:0;git push
+: 1662717573:0;ls
+: 1662717579:0;kyle-skaxx.github.io
+: 1662717583:0;git push
+: 1662717588:0;git add -A
+: 1662717606:0;git commit -m homepage-commit
+: 1662717612:0;git push
+: 1662719811:0;git add -A
+: 1662719878:0;git commit -m overflow-fix-commit
+: 1662719883:0;git push
+: 1662722879:0;git add -A
+: 1662722894:0;git commit -m liltweakscommit
+: 1662722896:0;git push
+: 1662723724:0;ls
+: 1662723726:0;blog
+: 1662723727:0;ls
+: 1662723745:0;touch entries.css
+: 1662723748:0;ls
+: 1662723750:0;code .
+: 1662725730:0;ls
+: 1662725734:0;cd ..
+: 1662725738:0;git add -A
+: 1662725754:0;git commit -m fridaynightcommit
+: 1662725756:0;git push
+: 1662870155:0;ls
+: 1662870158:0;devacademy
+: 1662870167:0;ls	
+: 1662870170:0;kyle-skaxx.github.io
+: 1662870171:0;ls
+: 1662870175:0;code .
+: 1662907153:0;ls
+: 1662907155:0;devacademy
+: 1662907162:0;ls
+: 1662907169:0;cd kyle-skaxx.github.io
+: 1662907172:0;ls
+: 1662907176:0;cd blog
+: 1662907177:0;ls
+: 1662907319:0;touch learning-plan.html
+: 1662940906:0;ls
+: 1662940910:0;devacademy
+: 1662940911:0;l
+: 1662940912:0;sls
+: 1662940912:0;ls
+: 1662940917:0;cd kyle-skaxx.github.io
+: 1662940920:0;ls
+: 1662940921:0;blog
+: 1662940922:0;ls
+: 1662940925:0;code 
+: 1662946773:0;ls
+: 1662946777:0;cd devacademy
+: 1662946778:0;ls
+: 1662946782:0;cd kyle-skaxx.github.io
+: 1662946783:0;ls
+: 1662946787:0;git add -A
+: 1662946804:0;git commit -m endofsprint2commit
+: 1662946859:0;git push
+: 1662946870:0;ls
+: 1662946872:0;cd ..
+: 1662946872:0;ls
+: 1662946900:0;reflection
+: 1662946902:0;reflections
+: 1662946903:0;ls
+: 1662946906:0;reflections
+: 1662946906:0;ls
+: 1662946913:0;code .
+: 1662949829:0;ls
+: 1662949835:0;cd devacademy
+: 1662949837:0;ls
+: 1662949843:0;kyle-skaxx.github.io
+: 1662949941:0;git add -A
+: 1662949951:0;git commit -m reflections2
+: 1662949968:0;ls
+: 1662949972:0;cd ..
+: 1662949973:0;ls
+: 1662949975:0;reflections
+: 1662949978:0;git add -A
+: 1662949988:0;git commit -m reflections2
+: 1662950067:0;git push
+: 1662956418:0;git clone 
+: 1662956423:0;ls
+: 1662956425:0;cd ..
+: 1662956447:0;cd kyle-skaxx.github.io
+: 1662956457:0;git clone https://github.com/kyle-skaxx/javascript-intro
+: 1662956484:0;cd javascript-intro
+: 1662956486:0;ls
+: 1662956494:0;readme.md
+: 1662956497:0;code .
+: 1662956556:0;npm install
+: 1662956579:0;ls
+: 1662956701:0;npm install
+: 1662956703:0;ls
+: 1662956879:0;cat
+: 1662956914:0;ls
+: 1662956916:0;cd devacademy
+: 1662956918:0;cd kyle-skaxx.github.io
+: 1662956919:0;ls
+: 1662956923:0;cd javascript-intro
+: 1662956925:0;npm install
+: 1662956927:0;ls
+: 1662956930:0;src
+: 1662956932:0;npm install
+: 1662956935:0;cd ..
+: 1662956983:0;npm run start
+: 1662957018:0;apt-get install
+: 1662957084:0;npm run start
+: 1662957209:0;apt-get install y
+: 1662957274:0;clear
+: 1662957274:0;ls
+: 1662957277:0;cd ..
+: 1662957281:0;npm install
+: 1662957282:0;ls
+: 1662957290:0;javascript-intro
+: 1662957291:0;ls
+: 1662957325:0;devacademy
+: 1662957326:0;ls
+: 1662957333:0;kyle-skaxx.github.io
+: 1662957337:0;npm install
+: 1662957338:0;ls
+: 1662957342:0;javascript-intro
+: 1662957343:0;ls
+: 1662957382:0;apt-get install
+: 1662957554:0;npm install
+: 1662957738:0;git status
+: 1662957745:0;ls
+: 1662957953:0;nmp install
+: 1662957958:0;nmp run start
+: 1662958254:0;sudo-apt get-install
+: 1662958260:0;sudo apt-get install
+: 1662958331:0;npm run start
+: 1662958334:0;sudo run start
+: 1662958339:0;sudo apt-get run start
+: 1662958518:0;type nvm
+: 1662958580:0;pwd
+: 1662958703:0;nvm install --lts 
+: 1662958847:0;npm install
+: 1662958909:0;npm run start
+: 1662974620:0;code .
+: 1662974688:0;npm run start
+: 1663028372:0;git add -A
+: 1663028400:0;git commit -m 'finished challenge 5 commit'
+: 1663028402:0;git push
+: 1663037219:0;npm run start
+: 1663054965:0;a;sldk's;dg
+: 1663054973:0;npm run start
+: 1663055021:0;ls
+: 1663055024:0;cd devacademy
+: 1663055032:0;cd kyle-skaxx.github.io
+: 1663055039:0;cd javascript-intro
+: 1663055039:0;ls
+: 1663055042:0;code .
+: 1663055063:0;ls
+: 1663055067:0;devacademy
+: 1663055068:0;ls
+: 1663055076:0;kyle-skaxx.github.io
+: 1663055079:0;ls
+: 1663055081:0;cd javascript-intro
+: 1663055084:0;npm run start
+: 1663055119:0;nvm install --lts
+: 1663055127:0;npm run start
+: 1663055326:0;git reset
+: 1663055331:0;ls
+: 1663055336:0;code .
+: 1663055345:0;npm run start
+: 1663055634:0;ls
+: 1663055638:0;git status
+: 1663055647:0;git restore 
+: 1663055663:0;git restore src/challenge/6-conditionals.js
+: 1663055676:0;npm run start
+: 1663071308:0;git add- A
+: 1663071311:0;git add -A
+: 1663071332:0;git commit -m 'conditionals done commit'
+: 1663071667:0;npm run start
+: 1663074372:0;ls
+: 1663074395:0;npm run start
+: 1663074576:0;code . 
+: 1663074583:0;npm run start
+: 1663122636:0;git add -A
+: 1663122691:0;git commit -m 'commit js loops done bar the stretch'
+: 1663122696:0;git push
+: 1663130672:0;npm run start
+: 1663211883:0;git status
+: 1663211890:0;cd .. 
+: 1663211892:0;blog
+: 1663211896:0;git status
+: 1663214017:0;cd ..
+: 1663214052:0;git clone https://github.com/kyle-skaxx.github.io/DOM-interactions
+: 1663214085:0;git clone https://github.com/kyle-skaxx/DOM-interactions
+: 1663214096:0;DOM-interactions
+: 1663214110:0;code .
+: 1663214228:0;git clone https://github.com/kyle-skaxx/DOM-applying-classes
+: 1663214233:0;ls
+: 1663214242:0;rm -rf DOM-applying-classes
+: 1663214244:0;ls
+: 1663214246:0;cd ..
+: 1663214247:0;ls
+: 1663214282:0;git clone https://github.com/kyle-skaxx/DOM-applying-classes
+: 1663214285:0;ls
+: 1663214290:0;cd DOM-applying-classes
+: 1663214291:0;code .
+: 1663214607:0;ls
+: 1663214609:0;cd devacademy
+: 1663214612:0;cd kyle-skaxx.github.io
+: 1663214620:0;cd DOM-applying-classes
+: 1663214622:0;ls
+: 1663214625:0;code .
+: 1663215929:0;ls
+: 1663215941:0;devacademy
+: 1663215943:0;ls
+: 1663215948:0;cd kyle-skaxx.github.io
+: 1663215957:0;git add -A
+: 1663215972:0;git status
+: 1663216006:0;ls
+: 1663216257:0;cd DOM-interactions
+: 1663216259:0;code .
+: 1663218669:0;ls
+: 1663218671:0;cd devacademy
+: 1663218674:0;cd kyle-skaxx.github.io
+: 1663218685:0;cd DOM-applying-classes
+: 1663218687:0;git status
+: 1663218695:0;git add -A
+: 1663218709:0;git commit -m 'applying classes done'
+: 1663218710:0;git push
+: 1663218714:0;cd ..
+: 1663218719:0;cd DOM-interactions
+: 1663230705:0;ls
+: 1663230712:0;cd ..
+: 1663230714:0;ls
+: 1663230716:0;cd ..
+: 1663230717:0;ls
+: 1663230720:0;cd kyle-skaxx.github.io
+: 1663230722:0;blog
+: 1663230723:0;code .
+: 1663243414:0;ls
+: 1663243417:0;cd devacademy
+: 1663243418:0;ls
+: 1663243422:0;	cd kyle-skaxx.github.io
+: 1663243442:0;git clone https://github.com/kyle-skaxx/javascript-cafe
+: 1663243447:0;ls
+: 1663243451:0;git add -A
+: 1663243461:0;cd DOM-applying-classes
+: 1663243462:0;ls
+: 1663243464:0;git status
+: 1663243610:0;cd ..
+: 1663243615:0;cd DOM-interactions
+: 1663243616:0;ls
+: 1663243620:0;git status
+: 1663243623:0;git add -A
+: 1663243632:0;git commit -m 'DOM-interactions finished'
+: 1663243638:0;git push
+: 1663243642:0;git status
+: 1663243839:0;cd ..
+: 1663243843:0;cd javascript-cafe
+: 1663243844:0;code .
+: 1663243880:0;npm run start
+: 1663246112:0;ls
+: 1663246114:0;cd devacademy
+: 1663246117:0;cd kyle-skaxx.github.io
+: 1663246132:0;git status
+: 1663246173:0;git add -a 'DOM-INTERACTIONS FORGOT TO SAVE AND PUSHED'
+: 1663246180:0;GIT ADD -a
+: 1663246182:0;git add- a
+: 1663246184:0;git add -a
+: 1663246188:0;git add -A
+: 1663246207:0;git commit -m 'DOM-INTERACTIONS PUSH COS I FORGOT TO SAVE'
+: 1663246209:0;GIT PUSH
+: 1663246219:0;LS
+: 1663246220:0;ls
+: 1663246223:0;cd DOM-interactions
+: 1663246232:0;code .
+: 1663251312:0;cd ..
+: 1663251315:0;git status
+: 1663251318:0;git add -A
+: 1663251330:0;git commit -m 'java cafe done'
+: 1663251341:0;git push
+: 1663251355:0;git commit -m 'Java cafe done'
+: 1663251358:0;ls
+: 1663251362:0;git status
+: 1663251368:0;ls
+: 1663251374:0;cd javascript-cafe
+: 1663251378:0;git add -A
+: 1663251414:0;git commit add -a
+: 1663251418:0;git add -A
+: 1663251429:0;git commit -m 'java cafe done'
+: 1663251430:0;git push
+: 1663251446:0;code 
+: 1663251501:0;git 
+: 1663251504:0;git status
+: 1663251508:0;cd ..
+: 1663251510:0;git status
+: 1663251516:0;cd DOM-interactions
+: 1663251518:0;code .
+: 1663251672:0;git status
+: 1663251675:0;ls
+: 1663251678:0;cd devacademy
+: 1663251681:0;cd kyle-skaxx.github.io
+: 1663251690:0;cd DOM-interactions
+: 1663251692:0;git status
+: 1663251698:0;cd ,,
+: 1663251699:0;cd ..
+: 1663251716:0;cd javascript-intro
+: 1663251717:0;ls
+: 1663251742:0;cd ..
+: 1663251748:0;ls
+: 1663251758:0;cd DOM-interactions
+: 1663251760:0;ls
+: 1663251766:0;git add -A
+: 1663251774:0;git commit -m 'game ocmmit'
+: 1663251782:0;cd ..
+: 1663251784:0;git push
+: 1663251789:0;git status
+: 1663251796:0;git push -A
+: 1663291983:0;ls
+: 1663292107:0;cd kyle-skaxx.github.io
+: 1663292109:0;ls
+: 1663292113:0;blog
+: 1663292115:0;ls
+: 1663292122:0;mkdir javascript-dom.html
+: 1663292124:0;code .
+: 1663292148:0;ls
+: 1663292151:0;cd devacademy
+: 1663292154:0;ls
+: 1663292158:0;cd kyle-skaxx.github.io
+: 1663292164:0;blog
+: 1663292173:0;touch javascript-dom.html
+: 1663292195:0;code 
+: 1663292225:0;ls
+: 1663292237:0;touch directory.html
+: 1663292249:0;code ,
+: 1663292278:0;ls
+: 1663292284:0;cd ..
+: 1663292288:0;code .
+: 1663292366:0;ls
+: 1663292369:0;blog
+: 1663292380:0;touch blog.js
+: 1663292742:0;ls
+: 1663292744:0;cd devacademy
+: 1663292748:0;	cd kyle-skaxx.github.io
+: 1663292749:0;ls 
+: 1663292753:0;blog
+: 1663292754:0;ls
+: 1663292769:0;touch cultural-directory
+: 1663292774:0;touch cultural-directory.html
+: 1663563302:0;git status
+: 1663563309:0;git add -A
+: 1663563319:0;git commit -m 'sprint3done'
+: 1663563328:0;git push
+: 1663563392:0;code .
+: 1663563570:0;cd devacademy
+: 1663563573:0;cd kyle-skaxx.github.io
+: 1663563577:0;cd blog
+: 1663563580:0;git add -A
+: 1663563601:0;git commit -m 'perfectionists' dilemma commit'\
+\
+\
+sadasdc
+: 1663563618:0;git commit -m a perfectionists' commit
+: 1663563639:0;git commit -m 'a perfectionists commit'
+: 1663563641:0;git push
+: 1663563797:0;cd ..
+: 1663563799:0;git status
+: 1663563807:0;git add -A
+: 1663563815:0;git commit -m 'idk what im committing here'
+: 1663565641:0;blog
+: 1663565644:0;git status
+: 1663567638:0;git rm -r DOM-applying-classes DOM-interactions javascript-cafe  javascript-into
+: 1663567640:0;ls
+: 1663567645:0;devacademy
+: 1663567650:0;cd kyle-skaxx.github.io
+: 1663567652:0;ls
+: 1663567653:0;git rm -r DOM-applying-classes DOM-interactions javascript-cafe  javascript-into
+: 1663567689:0;lx
+: 1663567691:0;ls
+: 1663567694:0;cd ..
+: 1663567695:0;ls
+: 1663567698:0;git rm -r DOM-applying-classes DOM-interactions javascript-cafe  javascript-into
+: 1663567702:0;clear
+: 1663567707:0;git rm -r DOM-applying-classes DOM-interactions javascript-cafe  javascript-into
+: 1663567799:0;git rm -r DOM-applying-classes DOM-interactions javascript-cafe javascript-intro
+: 1663567870:0;git submodule deinit DOM-applying-classes DOM-interactions javascript-cafe javascript-intro
+: 1663568088:0;git rm -r DOM-applying-classes DOM-interactions javascript-cafe javascript-intro
+: 1663568118:0;ls
+: 1663568123:0;clear
+: 1663568242:0;git status
+: 1663568245:0;git add -A
+: 1663568252:0;git commit -m 'please work'
+: 1663568263:0;ls .git/modules
+: 1663568309:0;git status
+: 1663568312:0;git push
+: 1663568401:0;cd ..
+: 1663568402:0;git status
+: 1663568406:0;git add -A
+: 1663568674:0;git status
+: 1663724301:0;LS
+: 1663724303:0;ls
+: 1663724308:0;	cd reflections
+: 1663724311:0;git staus
+: 1663724313:0;git status
+: 1663724317:0;git add -A
+: 1663724325:0;git commit -m sprint 2 reflections
+: 1663724338:0;git commit -m 'reflections sprint 2'
+: 1663724339:0;code .
+: 1663726551:0;cd devacademy
+: 1663726557:0;cd kyle-skaxx.github.io
+: 1663726560:0;cd ..
+: 1663726562:0;git add -A
+: 1663726570:0;git commit -m 'end of sprint 3'
+: 1663726574:0;git push
+: 1663726615:0;git status
+: 1663726621:0;cd reflections
+: 1663726622:0;git add -A
+: 1663726630:0;git commit -m 'sprint 3 reflections'
+: 1663726631:0;git push
+: 1663726655:0;ls
+: 1663726657:0;git push reflections
+: 1663726749:0;cd ..
+: 1663726751:0;git push reflections
+: 1663726756:0;ls
+: 1663726785:0;git push origin main
+: 1663726790:0;cd reflections
+: 1663726792:0;git push origin main
+: 1663726872:0;ls
+: 1663726874:0;reflections
+: 1663726876:0;ls
+: 1663726881:0;sprint-2
+: 1663726882:0;git add -A
+: 1663726889:0;git commit -m 'sprint 2 done'
+: 1663726891:0;git push
+: 1663726896:0;cd .
+: 1663726898:0;sprint-3
+: 1663726900:0;ls
+: 1663726903:0;cd ..
+: 1663726904:0;ls
+: 1663726908:0;sprint-3
+: 1663755826:0;ls
+: 1663755828:0;cd ..
+: 1663755830:0;ls
+: 1663755831:0;cd ..
+: 1663755833:0;ls
+: 1663755837:0;cd kyle-skaxx.github.io
+: 1663755838:0;ls
+: 1663755840:0;cd
+: 1663755843:0;..
+: 1663755844:0;ls
+: 1663755848:0;taranakiyoza
+: 1663755849:0;ls
+: 1663755852:0;cd devacademy
+: 1663755854:0;ls
+: 1663755887:0;git checkout -b zen-garden-tidy
+: 1663755899:0;git clone
+: 1663755913:0;ls
+: 1663755918:0;git checkout
+: 1663755919:0;ls
+: 1663755952:0;git clone zen-garden-tidy
+: 1663755996:0;clear
+: 1663756012:0;git checkout -b main
+: 1663756020:0;git clone zen-garden-tidy
+: 1663756036:0;ls
+: 1663756041:0;kyle-skaxx
+: 1663756042:0;;s
+: 1663756043:0;ls
+: 1663756051:0;git clone zen-garden
+: 1663756058:0;zen-garden-tidy
+: 1663756128:0;cd ..
+: 1663756133:0;ls
+: 1663756142:0;git clone zen-garden
+: 1663756155:0;git pull zen-garden
+: 1663756198:0;git checkout -b zen-garden-tidy
+: 1663756220:0;git switch zen-garden-tidy
+: 1663756226:0;code .
+: 1663756399:0;git switch main
+: 1663756402:0;ls
+: 1663756404:0;cd devacademy
+: 1663756423:0;git clone github.com/kyle-skaxx/zen-garden
+: 1663756532:0;git fetch zen-garden
+: 1663756574:0;git clone https://github.com/kyle-skaxx/zen-garden
+: 1663756589:0;git checkout -b zen-garden-tidy
+: 1663756599:0;git switch zen-garden-tidy
+: 1663756601:0;ls
+: 1663756606:0;cd zen-garden
+: 1663756612:0;code .
+: 1663758374:0;ls
+: 1663758375:0;code .
+: 1663758431:0;git switch zen-garden-main
+: 1663758439:0;git switch zen-garden-tidy
+: 1663758453:0;git checkout -b zen-garden-tidy
+: 1663758457:0;git add -A
+: 1663758472:0;git commit -m 'spring cleaning done n dusted'
+: 1663758479:0;git push
+: 1663758506:0;git push --set-upstream origin zen-garden-tidy
+: 1663759135:0;git branch -a
+: 1663812403:0;ld
+: 1663812408:0;git checkout
+: 1663812415:0;git checkout -m main
+: 1663812418:0;ls
+: 1663812421:0;cd devacademy
+: 1663812422:0;ls
+: 1663812433:0;kyle-skaxx.github.io
+: 1663812437:0;ls
+: 1664107352:0;devacademy
+: 1664107375:0;cd kyle-skaxx.github.io
+: 1664107376:0;ls
+: 1664107380:0;blog
+: 1664107404:0;touch neuroplasticity.html
+: 1664107431:0;code .
+: 1664107933:0;cd ..
+: 1664107935:0;ls
+: 1664107938:0;code .
+: 1664123913:0;ls
+: 1664123914:0;blog
+: 1664123919:0;touch problem-solving.html
+: 1664135316:0;ls
+: 1664135323:0;git add -A
+: 1664135331:0;git commit -m 'sprint 4 done'
+: 1664135337:0;git push 
+: 1664135367:0;cd ..
+: 1664135368:0;ls
+: 1664135371:0;cd ..
+: 1664135372:0;ls
+: 1664135375:0;reflections
+: 1664135376:0;ls
+: 1664135390:0;reflections
+: 1664135391:0;ls
+: 1664135395:0;sprint-4
+: 1664135396:0;ls
+: 1664135407:0;code .
+: 1664135882:0;ls
+: 1664135885:0;devacademy
+: 1664135886:0;reflection
+: 1664135889:0;reflections
+: 1664135892:0;git add -A
+: 1664135901:0;git commit -m 'sprint4 reflections done'
+: 1664135907:0;git push
+: 1664135910:0;ls
+: 1664135911:0;cd ..
+: 1664135913:0;git status
+: 1664135921:0;git add -A
+: 1664135925:0;ls
+: 1664135928:0;cd ..
+: 1664135930:0;ls
+: 1664135936:0;kyle-skaxx.github.io
+: 1664135937:0;ls
+: 1664135941:0;git status
+: 1664136048:0;code .
+: 1664136278:0;git status
+: 1664136280:0;ls
+: 1664136282:0;git add -A
+: 1664136296:0;git commit -m 'flexbox centered'
+: 1664136300:0;git push
+: 1664150629:0;ls
+: 1664150631:0;cd ,,
+: 1664150633:0;cd ..
+: 1664150652:0;git clone tic-tac-toe
+: 1664150672:0;git clone https://github.com/dev-academy-foundations/tic-tac-toe
+: 1664150712:0;ls
+: 1664150725:0;rm -rf tic-tac-toe
+: 1664150727:0;ls
+: 1664150740:0;git clone https://github.com/kyle-skaxx/tic-tac-toe
+: 1664150744:0;ls
+: 1664150746:0;code .
+: 1664428233:0;ls
+: 1664428236:0;devacademt
+: 1664428240:0;cd devacademy
+: 1664428243:0;git add -A
+: 1664428250:0;ls
+: 1664428261:0;cd tic-tac-toe
+: 1664428264:0;git add -A
+: 1664428275:0;git commit -m tictactoe is done!
+: 1664428286:0;git commit -m tictactoedone
+: 1664432110:0;git push
+: 1664432391:0;clear
+: 1664432393:0;git push
+: 1664452391:0;git clone https://github.com/kyle-skaxx/javascript-carnival
+: 1664452397:0;ls
+: 1664452413:0;rm -rf javascript-carnival
+: 1664452414:0;ls
+: 1664452416:0;cd ..
+: 1664452417:0;ls
+: 1664452422:0;git clone https://github.com/kyle-skaxx/javascript-carnival
+: 1664452484:0;javascript-carnival
+: 1664452487:0;code .
+: 1664453622:0;cd ..
+: 1664453629:0;tic-tac-toe
+: 1664453631:0;code .
+: 1664541306:0;ls
+: 1664541307:0;cd ..
+: 1664541313:0;ls
+: 1664541325:0;javascript-carnival;
+: 1664541328:0;ls
+: 1664541334:0;dress-the-clown
+: 1664541337:0;code .
+: 1664695953:0;ls
+: 1664695955:0;devacademy
+: 1664695957:0;ls
+: 1664695961:0;javascript-carniavl
+: 1664695965:0;javascript-carnival
+: 1664696028:0;ls
+: 1664696033:0;dress-the-clown
+: 1664696034:0;ls
+: 1664696036:0;code .
+: 1664703433:0;ls
+: 1664703434:0;devacademt
+: 1664703437:0;devacademy
+: 1664703438:0;blog
+: 1664703439:0;ls
+: 1664703444:0;kyle-skaxx.githubb.io
+: 1664703449:0;kyle-skaxx.github.io
+: 1664703451:0;ls
+: 1664703451:0;blog
+: 1664703463:0;touch foundations-reflections.html
+: 1664703464:0;ls
+: 1664779449:0;code .
+: 1664891258:0;ls
+: 1664891260:0;devacademy
+: 1664891265:0;git add -A
+: 1664891279:0;kyle-skaxx.github.io
+: 1664891281:0;git add -A
+: 1664891289:0;git commit m 'sprint5done'
+: 1664891305:0;git commit -m sprint5done
+: 1664891308:0;cd ..
+: 1664891311:0;javascript-carnival
+: 1664891314:0;git add -A
+: 1664891327:0;git commit -m 'sprint5done'
+: 1664891330:0;git add -A
+: 1664891338:0;cd ..
+: 1664891339:0;git push
+: 1664891353:0;cd javascript-carnival
+: 1664891355:0;git pius
+: 1664891356:0;git push
+: 1664891360:0;cd ..
+: 1664891369:0;kyle-skaxx.github.io
+: 1664891372:0;blog
+: 1664891374:0;ls
+: 1664891376:0;git add -A
+: 1664891378:0;git commit -m 
+: 1664891390:0;git commit -m 'sprint5done'
+: 1664891391:0;git push
+: 1664891396:0;ls
+: 1664943790:0;devacademy
+: 1664943791:0;ls
+: 1664943794:0;blog
+: 1664943800:0;kyle-skaxx.github.io
+: 1664943801:0;ls
+: 1664943823:0;blog
+: 1664943824:0;ls
+: 1664943881:0;code .
+: 1664944699:0;ls
+: 1664944701:0;devacademy
+: 1664944707:0;kyle-skaxx.github.io
+: 1664944708:0;code .
+: 1664945131:0;blog
+: 1664945134:0;git add -A
+: 1664945186:0;git commit -m 'core reflections added'
+: 1664945191:0;git push
+: 1665222558:0;ls
+: 1665222560:0;devacademy
+: 1665222597:0;blog
+: 1665222598:0;ls
+: 1665222603:0;kyle-skaxx.github.io
+: 1665222604:0;ls
+: 1665222609:0;blog
+: 1665222615:0;ls
+: 1665222624:0;personal-project.html
+: 1665222632:0;touch personal-project.html
+: 1665222633:0;code .
+: 1665353147:0;sl
+: 1665353147:0;ls
+: 1665353152:0;git remote -v
+: 1665353154:0;ls
+: 1665353158:0;devacademy
+: 1665353165:0;kyle-skaxx.github.io
+: 1665353166:0;ls
+: 1665353282:0;git checkout --help
+: 1665353654:0;git add --help
+: 1665354740:0;git clone https://github.com/aihe-popoto-2022/two-truths-and-a-lie
+: 1665354754:0;git iam
+: 1665355241:0;npm install git-iam --global
+: 1665355252:0;yarn global add git-iam
+: 1665355307:0;cd ..
+: 1665355315:0;~
+: 1665355323:0;npm install git-iam --global
+: 1665355325:0;ls
+: 1665355342:0;git status
+: 1665355358:0;npm install git-iam --global
+: 1665355556:0;nvm
+: 1665355563:0;npm
+: 1665355615:0;nvm install --lts
+: 1665355629:0;npm
+: 1665355644:0;npm install git-iam --global
+: 1665355709:0;git iam kyle
+: 1665355737:0;git-iam --init https://gist.githubusercontent.com/ben-hoggan/f3401d9568a655453bf5d5e702169067/raw/
+: 1665355750:0;git-iam kyle
+: 1665355833:0;git branch kyle-marney
+: 1665355846:0;git checkout kyle-marney
+: 1665356006:0;ls
+: 1665356010:0;devacademy
+: 1665356011:0;ls
+: 1665356016:0;kyle-skaxx.github.io
+: 1665356018:0;ls
+: 1665356028:0;code .
+: 1665356748:0;ls
+: 1665356753:0;git checkout 0m
+: 1665356755:0;git checkout
+: 1665356760:0;git checkout -m
+: 1665356800:0;git status
+: 1665356907:0;cleart
+: 1665356910:0;clear
+: 1665356950:0;ls
+: 1665356953:0;devacademy
+: 1665356954:0;ls
+: 1665356963:0;cd clone-a-repo-test
+: 1665356966:0;ls
+: 1665356969:0;code .
+: 1665357050:0;git checkout sherelynn-sae
+: 1665357088:0;ls
+: 1665357096:0;code .
+: 1665357113:0;cd ..
+: 1665357114:0;ls
+: 1665357124:0;two-truths-and-a-lie
+: 1665357125:0;ls
+: 1665357130:0;cod e.
+: 1665357132:0;code .
+: 1665357168:0;ls 
+: 1665357170:0;devacademy
+: 1665357172:0;ls
+: 1665357180:0;two-truths-and-a-lie
+: 1665357307:0;git fetch marney-kyle
+: 1665357323:0;git fetch two-truths-and-a-lie
+: 1665357361:0;git fetch
+: 1665357370:0;git checkout sherelynn-sae
+: 1665357378:0;ls
+: 1665357380:0;code .
+: 1665357439:0;ls
+: 1665357442:0;devacademy
+: 1665357443:0;ls
+: 1665357456:0;two-truths-and-a-lie
+: 1665357459:0;ls
+: 1665357477:0;git checkout -b sherelynn-sae-busted
+: 1665357497:0;code .
+: 1665357642:0;git add two-truths.md
+: 1665357648:0;git commit -m 'Found the lie'
+: 1665357654:0;git iam-kyle
+: 1665357659:0;git iam -kyle
+: 1665357676:0;git iam kyle
+: 1665357691:0;git config --global user.email
+: 1665357692:0;ls
+: 1665357708:0;git iam kyle
+: 1665357770:0;git add two-truths
+: 1665357777:0;git add two-truths.md
+: 1665357788:0;git commit -m 'found the lie v2'
+: 1665357843:0;git iam kyle
+: 1665357854:0;whathtekjrhfas;fjsdklfg
+: 1665358645:0;ls
+: 1665358649:0;code .
+: 1665358688:0;git checkout 
+: 1665358692:0;git checkout -m
+: 1665358695:0;git checkout m
+: 1665358717:0;git checkout -main
+: 1665358727:0;git checkout -b main
+: 1665358734:0;ks
+: 1665358735:0;ls
+: 1665358737:0;devacademy
+: 1665358738:0;ls
+: 1665358748:0;two-truths-and-a-lie
+: 1665358749:0;ls
+: 1665358753:0;git add -A
+: 1665358761:0;git commit -m 'found the lie'
+: 1665358784:0;clear
+: 1665358790:0;git add -A
+: 1665358796:0;git commit -m 'found the lie'
+: 1665358804:0;git iam kyle
+: 1665358905:0;git switch
+: 1665358908:0;git switch main
+: 1665358911:0;git switch origin
+: 1665358918:0;git swith origin/main
+: 1665358929:0;git switch origin/main
+: 1665358934:0;git checkout main
+: 1665358950:0;git add -A
+: 1665358958:0;git commit -m 'found the lie'
+: 1665358973:0;git config --global user.email 'skljdfsd@gmail.com'
+: 1665358988:0;git config --global user.name 'kyle-skaxx'
+: 1665358992:0;git iam kyle
+: 1665359001:0;git commit -m 'found the lie'
+: 1665359011:0;git push
+: 1665359042:0;git push origin sherelynn-sae
+: 1665359211:0;git push origin
+: 1665359240:0;git push --set-upstream origin sherelynn-sae-busted
+: 1665360228:0;git checkout bridget-kelsey
+: 1665360274:0;git checkout elena-aleksandra
+: 1665360277:0;code .
+: 1665360307:0;git set upstream origin elena-aleksandra-busted
+: 1665360348:0;git push --set-upstream origin elena-aleksandra-mk
+: 1665360362:0;git code .
+: 1665360366:0;code .
+: 1665360472:0;git add -A\
+: 1665360474:0;git add -A
+: 1665360481:0;git commit -m 'gotcha'
+: 1665360489:0;git push --set-upstream origin elena-aleksandra-mk
+: 1665360570:0;git checkout -b elena-aleksandra-busted-mk
+: 1665360577:0;git push --set-upstream origin elena-aleksandra-mk
+: 1665360589:0;code .
+: 1665360636:0;git push
+: 1665360649:0;git push --set-upstream origin elena-aleksandra-busted-mk
+: 1665361558:0;git checkout paul-zhinus-busted-mk
+: 1665361625:0;git checkout -b paul-zhinus-busted-mk
+: 1665361628:0;code .
+: 1665361655:0;ls
+: 1665361656:0;code .
+: 1665361671:0;git checkout paul-zhinus-busted-mk
+: 1665361767:0;git checkout main
+: 1665361777:0;git checkout paul-zhinus-busted-mk
+: 1665361779:0;code 
+: 1665361797:0;git status
+: 1665361807:0;git fetch paul-zhinus-busted-mk
+: 1665361826:0;git fetch
+: 1665361833:0;code .
+: 1665361865:0;git push
+: 1665361922:0;git checkout m
+: 1665361932:0;git checkout main
+: 1665361936:0;code .
+: 1665361986:0;git branch --delete paul-zhinus-busted-mk
+: 1665361990:0;ls
+: 1665361992:0;devacademy
+: 1665361994:0;ls
+: 1665362000:0;cd two-truths-and-a-lie
+: 1665362001:0;ls
+: 1665362017:0;git branch --delete paul-zhinus-busted-mk
+: 1665362028:0;git branch -D paul-zhinus-busted-mk
+: 1665362038:0;git fetch paul-zhinus-busted-mk
+: 1665362049:0;git checkout paul-zhinus-busted-mk
+: 1665362053:0;code .
+: 1665362127:0;git add 0A
+: 1665362130:0;git add -A
+: 1665362139:0;git commit -m 'gotcha'
+: 1665362142:0;git push 
+: 1665366669:0;explorer
+: 1665366705:0;git checkout -b main
+: 1665366708:0;git checkout main
+: 1665367115:0;devacademy
+: 1665367138:0;code .
+: 1665369957:0;git iam kyle
+: 1665433213:0;ls 
+: 1665433225:0;mkdir bootcamp
+: 1665433228:0;bootcamp
+: 1665433237:0;git clone https://github.com/aihe-popoto-2022/kata-objects-and-arrays
+                                                     : 1665433589:0;ls
+: 1665433619:0;cd ~
+: 1665433620:0;mv .zsh_history .zsh_history_bad\
+strings -eS .zsh_history_bad > .zsh_history\
+fc -R .zsh_history
